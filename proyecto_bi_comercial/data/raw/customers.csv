@@ -1,0 +1,181 @@
+﻿customer_id,customer_segment,customer_province
+C0001,PyME,Mendoza
+C0002,Consumidor final,Santa Fe
+C0003,Empresa,Mendoza
+C0004,PyME,Santa Fe
+C0005,Consumidor final,CABA
+C0006,Empresa,Córdoba
+C0007,Consumidor final,Córdoba
+C0008,Consumidor final,CABA
+C0009,PyME,Mendoza
+C0010,Empresa,Córdoba
+C0011,Consumidor final,Mendoza
+C0012,Empresa,Buenos Aires
+C0013,Consumidor final,Buenos Aires
+C0014,PyME,CABA
+C0015,Consumidor final,CABA
+C0016,PyME,CABA
+C0017,PyME,Córdoba
+C0018,Empresa,Santa Fe
+C0019,Empresa,CABA
+C0020,Consumidor final,Santa Fe
+C0021,Consumidor final,CABA
+C0022,Consumidor final,Buenos Aires
+C0023,Empresa,CABA
+C0024,Empresa,Santa Fe
+C0025,Consumidor final,Santa Fe
+C0026,Empresa,Santa Fe
+C0027,Consumidor final,Santa Fe
+C0028,Empresa,Mendoza
+C0029,Empresa,Mendoza
+C0030,Empresa,Buenos Aires
+C0031,Consumidor final,Santa Fe
+C0032,PyME,Buenos Aires
+C0033,PyME,Córdoba
+C0034,Consumidor final,Santa Fe
+C0035,Empresa,CABA
+C0036,PyME,CABA
+C0037,Empresa,Buenos Aires
+C0038,PyME,Mendoza
+C0039,Empresa,Santa Fe
+C0040,Consumidor final,Santa Fe
+C0041,Consumidor final,Santa Fe
+C0042,Empresa,CABA
+C0043,PyME,Córdoba
+C0044,PyME,Santa Fe
+C0045,PyME,Mendoza
+C0046,PyME,Córdoba
+C0047,PyME,Buenos Aires
+C0048,Empresa,CABA
+C0049,PyME,CABA
+C0050,Empresa,Buenos Aires
+C0051,Consumidor final,Córdoba
+C0052,PyME,Mendoza
+C0053,Consumidor final,CABA
+C0054,Consumidor final,Mendoza
+C0055,Empresa,Córdoba
+C0056,Empresa,Córdoba
+C0057,Consumidor final,Mendoza
+C0058,PyME,CABA
+C0059,Empresa,Santa Fe
+C0060,PyME,Buenos Aires
+C0061,Consumidor final,Mendoza
+C0062,Empresa,Mendoza
+C0063,Empresa,Mendoza
+C0064,Consumidor final,Córdoba
+C0065,Consumidor final,Córdoba
+C0066,PyME,Mendoza
+C0067,Empresa,Mendoza
+C0068,Empresa,CABA
+C0069,Consumidor final,CABA
+C0070,Consumidor final,Buenos Aires
+C0071,PyME,Santa Fe
+C0072,PyME,Buenos Aires
+C0073,PyME,CABA
+C0074,Empresa,Córdoba
+C0075,PyME,CABA
+C0076,Empresa,Santa Fe
+C0077,Empresa,Córdoba
+C0078,PyME,Buenos Aires
+C0079,PyME,CABA
+C0080,PyME,Santa Fe
+C0081,Consumidor final,Córdoba
+C0082,Consumidor final,Buenos Aires
+C0083,Empresa,Mendoza
+C0084,Consumidor final,Mendoza
+C0085,PyME,Buenos Aires
+C0086,PyME,CABA
+C0087,Consumidor final,Mendoza
+C0088,Consumidor final,Córdoba
+C0089,PyME,Córdoba
+C0090,Empresa,Santa Fe
+C0091,PyME,Santa Fe
+C0092,PyME,Buenos Aires
+C0093,Consumidor final,Córdoba
+C0094,PyME,Santa Fe
+C0095,PyME,Mendoza
+C0096,PyME,Mendoza
+C0097,Empresa,Mendoza
+C0098,Empresa,Buenos Aires
+C0099,Empresa,CABA
+C0100,PyME,Buenos Aires
+C0101,PyME,Mendoza
+C0102,PyME,Buenos Aires
+C0103,PyME,Córdoba
+C0104,PyME,Buenos Aires
+C0105,Empresa,Santa Fe
+C0106,Empresa,Santa Fe
+C0107,Consumidor final,Mendoza
+C0108,Consumidor final,Santa Fe
+C0109,Consumidor final,Córdoba
+C0110,Empresa,Buenos Aires
+C0111,Empresa,CABA
+C0112,PyME,Buenos Aires
+C0113,Consumidor final,Córdoba
+C0114,Consumidor final,CABA
+C0115,Consumidor final,Mendoza
+C0116,Empresa,Córdoba
+C0117,PyME,Córdoba
+C0118,Empresa,Mendoza
+C0119,PyME,Santa Fe
+C0120,Empresa,Santa Fe
+C0121,Empresa,Santa Fe
+C0122,PyME,CABA
+C0123,PyME,Buenos Aires
+C0124,PyME,Santa Fe
+C0125,PyME,CABA
+C0126,Consumidor final,Mendoza
+C0127,Consumidor final,Buenos Aires
+C0128,PyME,Córdoba
+C0129,PyME,CABA
+C0130,Consumidor final,Mendoza
+C0131,Consumidor final,Buenos Aires
+C0132,PyME,CABA
+C0133,Empresa,Mendoza
+C0134,Consumidor final,Mendoza
+C0135,PyME,Córdoba
+C0136,Empresa,Córdoba
+C0137,Consumidor final,CABA
+C0138,Empresa,Córdoba
+C0139,PyME,Córdoba
+C0140,PyME,Santa Fe
+C0141,Consumidor final,Santa Fe
+C0142,Empresa,CABA
+C0143,Empresa,Santa Fe
+C0144,Consumidor final,CABA
+C0145,Consumidor final,Mendoza
+C0146,Empresa,Santa Fe
+C0147,PyME,Santa Fe
+C0148,Consumidor final,CABA
+C0149,PyME,Córdoba
+C0150,Empresa,CABA
+C0151,Empresa,Córdoba
+C0152,Consumidor final,Buenos Aires
+C0153,Consumidor final,Buenos Aires
+C0154,Consumidor final,Buenos Aires
+C0155,PyME,Mendoza
+C0156,Consumidor final,Buenos Aires
+C0157,Consumidor final,Santa Fe
+C0158,PyME,Santa Fe
+C0159,PyME,Córdoba
+C0160,Consumidor final,Buenos Aires
+C0161,Consumidor final,Buenos Aires
+C0162,PyME,Córdoba
+C0163,Empresa,Santa Fe
+C0164,Consumidor final,Córdoba
+C0165,PyME,Mendoza
+C0166,PyME,Mendoza
+C0167,PyME,Buenos Aires
+C0168,PyME,Mendoza
+C0169,PyME,Buenos Aires
+C0170,Empresa,Santa Fe
+C0171,Empresa,Santa Fe
+C0172,Empresa,Buenos Aires
+C0173,PyME,CABA
+C0174,PyME,CABA
+C0175,Consumidor final,Mendoza
+C0176,PyME,Córdoba
+C0177,PyME,Córdoba
+C0178,Empresa,CABA
+C0179,PyME,CABA
+C0180,PyME,Santa Fe

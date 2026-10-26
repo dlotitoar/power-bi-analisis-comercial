@@ -1,0 +1,10 @@
+﻿control,count,decision
+Filas originales,1208,Conteo de filas fuente
+Duplicados por sale_id,8,Se conserva la primera ocurrencia
+Fechas inválidas,728,Se excluyen del dataset analítico
+Región faltante,12,Se etiqueta Sin informar
+Cliente faltante,8,Se etiqueta CLIENTE_SIN_ID
+Campos numéricos faltantes/no convertibles,0,Se excluyen del dataset analítico
+Reglas numéricas incumplidas,0,Se excluyen del dataset analítico
+Filas finales,472,Registros después de limpieza y enriquecimiento
+Diferencias de importe > ARS 1,444,Investigar; no se sobrescribe el importe fuente

@@ -1,0 +1,1209 @@
+﻿sale_id,sale_date,customer_id,product_id,product_name,category,region,channel,quantity,unit_price_ars,discount_rate,sales_amount_ars
+V00001,2025-03-06,C0030,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,5,78000,0.0,399360.0
+V00002,2025-02-28,C0179,P002,Monitor 27,Tecnología,GBA Oeste,E-commerce,4,280000,0.0,1133440.0
+V00003,2025-08-20,C0156,P005,Silla Ergonómica,Mobiliario,GBA Oeste,E-commerce,3,310000,0.0,1008120.0
+V00004,2025-02-21,C0013,P010,Parlante Portátil,Audio,CABA,Mayorista,5,78000,0.1,355212.0
+V00005,2025-08-16,C0149,P009,Tablet 10,Tecnología,GBA Oeste,Retail,4,390000,0.0,1691040.0
+V00006,2025-04-25,C0045,P008,Webcam HD,Accesorios,CABA,Retail,5,67000,0.05,329707.0
+V00007,2025-08-21,C0160,P009,Tablet 10,Tecnología,GBA Sur,Retail,1,390000,0.15,359346.0
+V00008,2025-09-02,C0176,P005,Silla Ergonómica,Mobiliario,CABA,Mayorista,5,310000,0.1,1528920.0
+V00009,2025-04-22,C0135,P004,Mouse Inalámbrico,Accesorios,Interior,E-commerce,1,42000,0.15,36985.2
+V00010,2025-01-30,C0028,P004,Mouse Inalámbrico,Accesorios,GBA Norte,E-commerce,5,42000,0.0,210000.0
+V00011,2025-12-08,C0058,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Retail,1,42000,0.0,47544.0
+V00012,2025-07-19,C0152,P004,Mouse Inalámbrico,Accesorios,GBA Norte,E-commerce,4,42000,0.1,162086.4
+V00013,2025-01-20,C0167,P007,Auriculares BT,Audio,Interior,Distribuidor,3,115000,0.0,345000.0
+V00014,2025-04-28,C0056,P006,Escritorio Compacto,Mobiliario,Interior,Distribuidor,1,220000,0.0,227920.0
+V00015,2025-04-10,C0030,P010,Parlante Portátil,Audio,Interior,Distribuidor,3,78000,0.0,242424.0
+V00016,2025-07-19,C0120,P003,Teclado Mecánico,Accesorios,CABA,Mayorista,4,85000,0.0,364480.0
+V00017,2025-08-02,C0136,P001,Notebook Pro 14,Tecnología,GBA Sur,Retail,1,950000,0.1,926820.0
+V00018,2025-10-16,C0038,P002,Monitor 27,Tecnología,Interior,E-commerce,5,280000,0.0,1551200.0
+V00019,2025-12-26,C0131,P005,Silla Ergonómica,Mobiliario,Interior,Retail,3,310000,0.0,1052760.0
+V00020,2025-08-22,C0011,P006,Escritorio Compacto,Mobiliario,GBA Sur,Distribuidor,4,220000,0.0,953920.0
+V00021,2025-09-28,C0076,P007,Auriculares BT,Audio,CABA,Retail,1,115000,0.0,126040.0
+V00022,2025-11-16,C0058,P005,Silla Ergonómica,Mobiliario,GBA Sur,Retail,5,310000,0.0,1736000.0
+V00023,2025-01-23,C0076,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,3,220000,0.1,594000.0
+V00024,2025-01-13,C0012,P006,Escritorio Compacto,Mobiliario,GBA Sur,Retail,1,220000,0.05,209000.0
+V00025,2025-08-18,C0053,P007,Auriculares BT,Audio,GBA Norte,E-commerce,2,115000,0.0,249320.0
+V00026,2025-11-30,C0177,P010,Parlante Portátil,Audio,GBA Oeste,Retail,4,78000,0.05,331968.0
+V00027,2025-12-06,C0011,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Mayorista,4,42000,0.1,171158.4
+V00028,2025-02-11,C0007,P010,Parlante Portátil,Audio,GBA Norte,Distribuidor,5,78000,0.0,394680.0
+V00029,2025-03-03,C0078,P001,Notebook Pro 14,Tecnología,Interior,Mayorista,5,950000,0.15,4134400.0
+V00030,2025-06-04,C0076,P005,Silla Ergonómica,Mobiliario,CABA,Mayorista,5,310000,0.0,1643000.0
+V00031,2025-03-25,C0116,P009,Tablet 10,Tecnología,CABA,Mayorista,3,390000,0.0,1198080.0
+V00032,2025-12-11,C0047,P001,Notebook Pro 14,Tecnología,GBA Sur,Retail,5,950000,0.15,4570450.0
+V00033,2025-07-27,C0051,P002,Monitor 27,Tecnología,GBA Sur,Distribuidor,1,280000,0.0,300160.0
+V00034,2025-04-28,C0075,P002,Monitor 27,Tecnología,GBA Sur,E-commerce,2,280000,0.0,580160.0
+V00035,2025-09-17,C0093,P010,Parlante Portátil,Audio,GBA Norte,E-commerce,5,78000,0.0,427440.0
+V00036,2025-11-23,C0078,P006,Escritorio Compacto,Mobiliario,CABA,Retail,3,220000,0.05,702240.0
+V00037,2025-10-31,C0015,P008,Webcam HD,Accesorios,Interior,E-commerce,5,67000,0.1,334062.0
+V00038,2025-11-05,C0111,P006,Escritorio Compacto,Mobiliario,CABA,Distribuidor,1,220000,0.05,234080.0
+V00039,2025-07-19,C0102,P001,Notebook Pro 14,Tecnología,CABA,Distribuidor,1,950000,0.1,916560.0
+V00040,2025-08-30,C0113,P005,Silla Ergonómica,Mobiliario,GBA Norte,Distribuidor,4,310000,0.15,1142536.0
+V00041,2025-09-24,C0013,P008,Webcam HD,Accesorios,GBA Oeste,Retail,5,67000,0.0,367160.0
+V00042,2025-03-17,C0030,P004,Mouse Inalámbrico,Accesorios,Interior,Retail,3,42000,0.05,122572.8
+V00043,2025-05-08,C0064,P010,Parlante Portátil,Audio,GBA Sur,Mayorista,4,78000,0.1,294278.4
+V00044,2025-12-21,C0069,P003,Teclado Mecánico,Accesorios,GBA Norte,Distribuidor,2,85000,0.0,192440.0
+V00045,2025-07-27,C0064,P005,Silla Ergonómica,Mobiliario,CABA,E-commerce,2,310000,0.1,598176.0
+V00046,2025-02-13,C0136,P008,Webcam HD,Accesorios,GBA Norte,E-commerce,3,67000,0.15,172900.2
+V00047,2025-08-29,C0123,P008,Webcam HD,Accesorios,CABA,Mayorista,4,67000,0.05,275986.4
+V00048,2025-07-05,C0069,P007,Auriculares BT,Audio,GBA Sur,E-commerce,4,115000,0.0,493120.0
+V00049,2025-03-06,C0098,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,2,390000,0.15,678912.0
+V00050,2025-08-28,C0108,P008,Webcam HD,Accesorios,CABA,Distribuidor,4,67000,0.0,290512.0
+V00051,2025-02-02,C0084,P010,Parlante Portátil,Audio,GBA Sur,Mayorista,3,78000,0.15,201286.8
+V00052,2025-06-27,C0016,P001,Notebook Pro 14,Tecnología,Interior,E-commerce,4,950000,0.0,4028000.0
+V00053,2025-01-23,C0063,P007,Auriculares BT,Audio,GBA Norte,Retail,3,115000,0.1,310500.0
+V00054,2025-08-28,C0051,P008,Webcam HD,Accesorios,CABA,Mayorista,2,67000,0.0,145256.0
+V00055,2025-09-26,C0098,P003,Teclado Mecánico,Accesorios,GBA Sur,Mayorista,3,85000,0.15,237558.0
+V00056,2025-04-22,C0038,P003,Teclado Mecánico,Accesorios,GBA Oeste,E-commerce,5,85000,0.0,440300.0
+V00057,2025-08-04,C0049,P001,Notebook Pro 14,Tecnología,GBA Sur,Mayorista,4,950000,0.0,4119200.0
+V00058,2025-08-08,C0154,P002,Monitor 27,Tecnología,CABA,Retail,3,280000,0.0,910560.0
+V00059,2025-06-17,C0021,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Retail,5,220000,0.05,1107700.0
+V00060,2025-12-07,C0057,P006,Escritorio Compacto,Mobiliario,GBA Norte,Mayorista,5,220000,0.0,1245200.0
+V00061,2025-03-24,C0121,P003,Teclado Mecánico,Accesorios,GBA Sur,Mayorista,1,85000,0.0,87040.0
+V00062,2025-04-03,C0120,P005,Silla Ergonómica,Mobiliario,GBA Sur,E-commerce,5,310000,0.05,1525510.0
+V00063,2025-03-16,C0007,P006,Escritorio Compacto,Mobiliario,GBA Norte,Distribuidor,2,220000,0.0,450560.0
+V00064,2025-06-12,C0051,P005,Silla Ergonómica,Mobiliario,GBA Norte,E-commerce,5,310000,0.15,1396550.0
+V00065,2025-04-02,C0180,P003,Teclado Mecánico,Accesorios,GBA Norte,Mayorista,5,85000,0.0,440300.0
+V00066,2025-02-25,C0058,P009,Tablet 10,Tecnología,GBA Norte,Distribuidor,5,390000,0.15,1677390.0
+V00067,2025-03-13,C0163,P008,Webcam HD,Accesorios,GBA Sur,Distribuidor,2,67000,0.0,137216.0
+V00068,2025-08-11,C0150,P008,Webcam HD,Accesorios,GBA Sur,E-commerce,5,67000,0.15,308669.0
+V00069,2025-05-05,C0090,P009,Tablet 10,Tecnología,GBA Sur,Mayorista,3,390000,0.05,1164852.0
+V00070,2025-11-08,C0148,P005,Silla Ergonómica,Mobiliario,Interior,Distribuidor,2,310000,0.0,694400.0
+V00071,2025-10-11,C0084,P010,Parlante Portátil,Audio,GBA Norte,Distribuidor,3,78000,0.1,233344.8
+V00072,2025-08-19,C0030,P008,Webcam HD,Accesorios,GBA Norte,E-commerce,4,67000,0.15,246935.2
+V00073,2025-06-29,C0043,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Distribuidor,2,310000,0.0,657200.0
+V00074,2025-01-05,C0003,P002,Monitor 27,Tecnología,CABA,Mayorista,3,280000,0.0,840000.0
+V00075,2025-01-20,C0049,P008,Webcam HD,Accesorios,GBA Sur,Distribuidor,2,67000,0.1,120600.0
+V00076,2025-11-28,C0093,P001,Notebook Pro 14,Tecnología,CABA,Distribuidor,1,950000,0.0,1064000.0
+V00077,2025-03-31,C0061,P003,Teclado Mecánico,Accesorios,Interior,Retail,1,85000,0.0,87040.0
+V00078,2025-09-23,C0053,P010,Parlante Portátil,Audio,CABA,Retail,3,78000,0.0,256464.0
+V00079,2025-07-31,C0050,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Distribuidor,3,42000,0.0,135072.0
+V00080,2025-08-04,C0043,P003,Teclado Mecánico,Accesorios,GBA Sur,Mayorista,2,85000,0.15,156638.0
+V00081,2025-12-16,C0035,P004,Mouse Inalámbrico,Accesorios,Interior,Distribuidor,3,42000,0.05,135500.4
+V00082,2025-10-21,C0106,P007,Auriculares BT,Audio,GBA Norte,Distribuidor,5,115000,0.0,637100.0
+V00083,2025-11-16,C0047,P009,Tablet 10,Tecnología,GBA Sur,Distribuidor,4,390000,0.0,1747200.0
+V00084,2025-06-09,C0169,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,5,390000,0.0,2067000.0
+V00085,2025-10-27,C0066,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,3,115000,0.05,363147.0
+V00086,2025-02-19,C0041,P005,Silla Ergonómica,Mobiliario,GBA Sur,E-commerce,2,310000,0.05,596068.0
+V00087,2025-11-22,C0027,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Retail,5,220000,0.05,1170400.0
+V00088,2025-06-16,C0042,P008,Webcam HD,Accesorios,GBA Sur,Retail,5,67000,0.0,355100.0
+V00089,2025-07-29,C0050,P009,Tablet 10,Tecnología,GBA Norte,Retail,4,390000,0.0,1672320.0
+V00090,2025-08-02,C0108,P005,Silla Ergonómica,Mobiliario,GBA Norte,Mayorista,3,310000,0.15,856902.0
+V00091,2025-09-08,C0063,P010,Parlante Portátil,Audio,GBA Oeste,Retail,1,78000,0.1,76939.2
+V00092,2025-06-13,C0076,P003,Teclado Mecánico,Accesorios,GBA Norte,Distribuidor,2,85000,0.0,180200.0
+V00093,2025-09-23,C0147,P002,Monitor 27,Tecnología,GBA Norte,Mayorista,3,280000,0.1,828576.0
+V00094,2025-11-08,C0174,P010,Parlante Portátil,Audio,GBA Sur,Retail,2,78000,0.0,174720.0
+V00095,2025-09-18,C0103,P010,Parlante Portátil,Audio,GBA Norte,Distribuidor,3,78000,0.1,230817.6
+V00096,2025-06-10,C0104,P009,Tablet 10,Tecnología,GBA Norte,E-commerce,5,390000,0.0,2067000.0
+V00097,2025-05-09,C0006,P007,Auriculares BT,Audio,Interior,E-commerce,4,115000,0.1,433872.0
+V00098,2025-01-08,C0024,P005,Silla Ergonómica,Mobiliario,Interior,Distribuidor,3,310000,0.1,837000.0
+V00099,2025-07-12,C0137,P009,Tablet 10,Tecnología,Interior,E-commerce,4,390000,0.1,1505088.0
+V00100,2025-11-12,C0176,P007,Auriculares BT,Audio,GBA Norte,E-commerce,4,115000,0.1,463680.0
+V00101,2025-12-12,C0005,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Mayorista,1,220000,0.0,249040.0
+V00102,2025-04-06,C0031,P005,Silla Ergonómica,Mobiliario,Interior,Retail,2,310000,0.0,642320.0
+V00103,2025-12-06,C0067,P007,Auriculares BT,Audio,Interior,Retail,4,115000,0.15,442612.0
+V00104,2025-06-14,C0046,P004,Mouse Inalámbrico,Accesorios,CABA,Distribuidor,3,42000,0.05,126882.0
+V00105,2025-01-12,C0050,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,4,67000,0.1,241200.0
+V00106,2025-12-02,C0112,P010,Parlante Portátil,Audio,GBA Norte,Retail,5,78000,0.05,419406.0
+V00107,2025-05-03,C0117,P008,Webcam HD,Accesorios,GBA Norte,E-commerce,1,67000,0.0,70216.0
+V00108,2025-02-02,C0026,P002,Monitor 27,Tecnología,GBA Sur,Mayorista,3,280000,0.0,850080.0
+V00109,2025-12-27,C0020,P010,Parlante Portátil,Audio,GBA Oeste,Distribuidor,4,78000,0.0,353184.0
+V00110,2025-11-13,C0076,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,4,42000,0.0,188160.0
+V00111,2025-07-27,C0108,P002,Monitor 27,Tecnología,Interior,Distribuidor,4,280000,0.0,1200640.0
+V00112,2025-03-08,C0144,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,4,310000,0.0,1269760.0
+V00113,2025-05-06,C0050,P006,Escritorio Compacto,Mobiliario,GBA Sur,Mayorista,1,220000,0.0,230560.0
+V00114,2025-11-18,C0131,P010,Parlante Portátil,Audio,GBA Sur,Retail,4,78000,0.0,349440.0
+V00115,2025-06-06,C0096,P001,Notebook Pro 14,Tecnología,GBA Norte,Distribuidor,3,950000,0.0,3021000.0
+V00116,2025-11-22,C0159,P006,Escritorio Compacto,Mobiliario,Interior,Retail,4,220000,0.05,936320.0
+V00117,2025-10-25,C0154,P005,Silla Ergonómica,Mobiliario,GBA Norte,Distribuidor,2,310000,0.0,686960.0
+V00118,2025-09-29,C0090,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Retail,3,220000,0.1,651024.0
+V00119,2025-08-17,C0127,P007,Auriculares BT,Audio,GBA Norte,Mayorista,1,115000,0.0,124660.0
+V00120,2025-06-27,C0104,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Mayorista,4,42000,0.0,178080.0
+V00121,2025-08-09,C0143,P002,Monitor 27,Tecnología,GBA Sur,E-commerce,3,280000,0.0,910560.0
+V00122,2025-06-03,C0060,P001,Notebook Pro 14,Tecnología,,Retail,1,950000,0.15,855950.0
+V00123,2025-05-22,C0147,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Mayorista,1,42000,0.0,44016.0
+V00124,2025-06-26,C0031,P003,Teclado Mecánico,Accesorios,Interior,Retail,5,85000,0.1,405450.0
+V00125,2025-01-19,C0007,P008,Webcam HD,Accesorios,Interior,Mayorista,2,67000,0.15,113900.0
+V00126,2025-03-01,C0100,P006,Escritorio Compacto,Mobiliario,CABA,Distribuidor,3,220000,0.1,608256.0
+V00127,2025-09-07,C0044,P004,Mouse Inalámbrico,Accesorios,GBA Norte,E-commerce,2,42000,0.05,87460.8
+V00128,2025-03-23,C0141,P010,Parlante Portátil,Audio,GBA Norte,Retail,5,78000,0.1,359424.0
+V00129,2025-05-18,C0108,P007,Auriculares BT,Audio,GBA Sur,Retail,5,115000,0.0,602600.0
+V00130,2025-07-11,C0026,P007,Auriculares BT,Audio,GBA Sur,E-commerce,2,115000,0.1,221904.0
+V00131,2025-06-10,C0092,P006,Escritorio Compacto,Mobiliario,GBA Norte,Distribuidor,1,220000,0.1,209880.0
+V00132,2025-10-06,C0104,P007,Auriculares BT,Audio,Interior,Retail,5,115000,0.0,637100.0
+V00133,2025-11-12,C0103,P008,Webcam HD,Accesorios,CABA,Distribuidor,5,67000,0.15,318920.0
+V00134,2025-11-22,C0042,P002,Monitor 27,Tecnología,GBA Sur,Distribuidor,4,280000,0.0,1254400.0
+V00135,2025-11-27,C0038,P007,Auriculares BT,Audio,GBA Norte,Retail,5,115000,0.15,547400.0
+V00136,2025-07-06,C0121,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Retail,3,310000,0.05,947112.0
+V00137,2025-05-30,C0171,P005,Silla Ergonómica,Mobiliario,GBA Norte,Distribuidor,5,310000,0.1,1461960.0
+V00138,2025-10-10,C0006,P007,Auriculares BT,Audio,GBA Norte,Distribuidor,5,115000,0.1,573390.0
+V00139,2025-03-26,C0005,P007,Auriculares BT,Audio,GBA Oeste,Mayorista,3,115000,0.0,353280.0
+V00140,2025-01-07,C0084,P010,Parlante Portátil,Audio,Interior,Retail,1,78000,0.0,78000.0
+V00141,2025-11-29,C0028,P002,Monitor 27,Tecnología,GBA Norte,E-commerce,3,280000,0.0,940800.0
+V00142,2025-05-03,C0022,P001,Notebook Pro 14,Tecnología,GBA Norte,Retail,2,950000,0.15,1692520.0
+V00143,2025-05-28,C0018,P006,Escritorio Compacto,Mobiliario,CABA,Retail,2,220000,0.1,415008.0
+V00144,2025-07-30,,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Mayorista,1,42000,0.0,45024.0
+V00145,2025-04-22,C0001,P010,Parlante Portátil,Audio,GBA Norte,Retail,5,78000,0.05,383838.0
+V00146,2025-09-17,C0172,P003,Teclado Mecánico,Accesorios,GBA Norte,Retail,2,85000,0.0,186320.0
+V00147,2025-06-14,C0068,P007,Auriculares BT,Audio,GBA Norte,Retail,3,115000,0.05,347415.0
+V00148,2025-03-24,C0170,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Mayorista,3,42000,0.1,116121.6
+V00149,2025-12-04,C0129,P010,Parlante Portátil,Audio,Interior,E-commerce,1,78000,0.0,88296.0
+V00150,2025-05-01,C0112,P007,Auriculares BT,Audio,GBA Norte,Mayorista,2,115000,0.0,241040.0
+V00151,2025-04-13,C0074,P009,Tablet 10,Tecnología,GBA Oeste,Distribuidor,4,390000,0.1,1454544.0
+V00152,2025-11-23,C0006,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Mayorista,1,42000,0.0,47040.0
+V00153,2025-03-01,C0070,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,1,220000,0.0,225280.0
+V00154,2025-08-26,C0078,P003,Teclado Mecánico,Accesorios,GBA Sur,E-commerce,3,85000,0.0,276420.0
+V00155,2025-11-11,C0128,P010,Parlante Portátil,Audio,GBA Oeste,Distribuidor,1,78000,0.0,87360.0
+V00156,2025-07-14,C0064,P003,Teclado Mecánico,Accesorios,Interior,Distribuidor,1,85000,0.0,91120.0
+V00157,2025-04-21,C0035,P007,Auriculares BT,Audio,Interior,Distribuidor,3,115000,0.15,303807.0
+V00158,2025-02-28,C0139,P010,Parlante Portátil,Audio,CABA,E-commerce,2,78000,0.15,134191.2
+V00159,2025-11-14,C0122,P005,Silla Ergonómica,Mobiliario,GBA Sur,Retail,5,310000,0.1,1562400.0
+V00160,2025-10-26,C0134,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,E-commerce,1,42000,0.0,46536.0
+V00161,2025-11-27,C0053,P009,Tablet 10,Tecnología,GBA Norte,Distribuidor,4,390000,0.0,1747200.0
+V00162,2025-02-22,C0056,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,5,220000,0.05,1057540.0
+V00163,2025-10-10,C0176,P004,Mouse Inalámbrico,Accesorios,Interior,Distribuidor,2,42000,0.0,93072.0
+V00164,2025-09-25,C0168,P001,Notebook Pro 14,Tecnología,GBA Oeste,Mayorista,1,950000,0.0,1041200.0
+V00165,2025-06-30,C0076,P001,Notebook Pro 14,Tecnología,GBA Norte,Mayorista,3,950000,0.0,3021000.0
+V00166,2025-02-28,C0160,P005,Silla Ergonómica,Mobiliario,Interior,Distribuidor,4,310000,0.05,1192136.0
+V00167,2025-09-01,C0088,P001,Notebook Pro 14,Tecnología,GBA Oeste,Mayorista,1,950000,0.0,1041200.0
+V00168,2025-04-22,C0069,P005,Silla Ergonómica,Mobiliario,CABA,Mayorista,2,310000,0.0,642320.0
+V00169,2025-04-08,C0159,P007,Auriculares BT,Audio,GBA Sur,Mayorista,5,115000,0.0,595700.0
+V00170,2025-04-22,C0110,P005,Silla Ergonómica,Mobiliario,CABA,Distribuidor,4,310000,0.15,1091944.0
+V00171,2025-07-21,C0049,P007,Auriculares BT,Audio,GBA Sur,E-commerce,4,115000,0.0,493120.0
+V00172,2025-08-15,C0060,P001,Notebook Pro 14,Tecnología,Interior,E-commerce,5,950000,0.0,5149000.0
+V00173,2025-01-29,C0135,P001,Notebook Pro 14,Tecnología,GBA Oeste,Distribuidor,1,950000,0.0,950000.0
+V00174,2025-07-02,C0134,P005,Silla Ergonómica,Mobiliario,GBA Sur,Retail,2,310000,0.0,664640.0
+V00175,2025-04-19,C0065,P009,Tablet 10,Tecnología,GBA Norte,Distribuidor,5,390000,0.0,2020200.0
+V00176,2025-02-14,C0134,P002,Monitor 27,Tecnología,CABA,E-commerce,3,280000,0.0,850080.0
+V00177,2025-06-04,C0076,P010,Parlante Portátil,Audio,CABA,Distribuidor,1,78000,0.1,74412.0
+V00178,2025-04-25,C0063,P005,Silla Ergonómica,Mobiliario,Interior,Retail,1,310000,0.05,305102.0
+V00179,2025-06-17,C0113,P005,Silla Ergonómica,Mobiliario,GBA Sur,E-commerce,4,310000,0.05,1248680.0
+V00180,2025-07-28,C0008,P006,Escritorio Compacto,Mobiliario,GBA Sur,Retail,5,220000,0.05,1120240.0
+V00181,2025-03-11,C0078,P001,Notebook Pro 14,Tecnología,GBA Sur,Distribuidor,2,950000,0.05,1848320.0
+V00182,2025-09-05,C0063,P002,Monitor 27,Tecnología,CABA,E-commerce,1,280000,0.1,276192.0
+V00183,2025-12-25,C0067,P010,Parlante Portátil,Audio,GBA Sur,Mayorista,1,78000,0.0,88296.0
+V00184,2025-02-14,C0052,P002,Monitor 27,Tecnología,Interior,E-commerce,2,280000,0.0,566720.0
+V00185,2025-05-28,C0149,P002,Monitor 27,Tecnología,GBA Oeste,E-commerce,4,280000,0.05,1115072.0
+V00186,2025-02-19,C0030,P010,Parlante Portátil,Audio,GBA Norte,E-commerce,2,78000,0.0,157872.0
+V00187,31/02/2025,C0096,P005,Silla Ergonómica,Mobiliario,,Mayorista,5,310000,0.0,1754600.0
+V00188,2025-07-05,C0146,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,4,390000,0.05,1588704.0
+V00189,2025-04-03,C0156,P005,Silla Ergonómica,Mobiliario,CABA,Mayorista,1,310000,0.15,272986.0
+V00190,2025-11-17,C0034,P010,Parlante Portátil,Audio,GBA Sur,E-commerce,4,78000,0.1,314496.0
+V00191,2025-07-14,C0056,P006,Escritorio Compacto,Mobiliario,GBA Norte,Mayorista,4,220000,0.0,943360.0
+V00192,2025-03-13,C0121,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,5,220000,0.0,1126400.0
+V00193,2025-03-20,C0070,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Mayorista,2,42000,0.0,86016.0
+V00194,2025-02-06,C0045,P010,Parlante Portátil,Audio,CABA,Distribuidor,3,78000,0.0,236808.0
+V00195,2025-06-27,C0014,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Mayorista,1,42000,0.0,44520.0
+V00196,2025-02-17,C0044,P010,Parlante Portátil,Audio,GBA Sur,Distribuidor,4,78000,0.0,315744.0
+V00197,2025-11-11,C0170,P008,Webcam HD,Accesorios,GBA Sur,Distribuidor,1,67000,0.0,75040.0
+V00198,2025-08-08,C0091,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,3,220000,0.1,643896.0
+V00199,2025-08-28,C0090,P007,Auriculares BT,Audio,GBA Oeste,Mayorista,1,115000,0.0,124660.0
+V00200,2025-12-05,C0042,P003,Teclado Mecánico,Accesorios,GBA Oeste,Retail,1,85000,0.05,91409.0
+V00201,2025-01-27,C0158,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,5,42000,0.05,199500.0
+V00202,2025-07-22,C0179,P008,Webcam HD,Accesorios,GBA Norte,Retail,2,67000,0.1,129283.2
+V00203,2025-12-20,C0003,P001,Notebook Pro 14,Tecnología,GBA Oeste,Distribuidor,1,950000,0.0,1075400.0
+V00204,2025-03-28,C0161,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,5,280000,0.0,1433600.0
+V00205,2025-06-28,C0036,P007,Auriculares BT,Audio,GBA Sur,E-commerce,4,115000,0.0,487600.0
+V00206,2025-03-26,C0032,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Distribuidor,5,310000,0.05,1507840.0
+V00207,2025-03-23,C0125,P009,Tablet 10,Tecnología,GBA Oeste,Distribuidor,5,390000,0.0,1996800.0
+V00208,2025-09-07,C0026,P009,Tablet 10,Tecnología,GBA Oeste,Retail,2,390000,0.1,769392.0
+V00209,2025-11-12,C0064,P007,Auriculares BT,Audio,GBA Oeste,Mayorista,2,115000,0.1,231840.0
+V00210,2025-10-26,C0114,P005,Silla Ergonómica,Mobiliario,CABA,Mayorista,2,310000,0.0,686960.0
+V00211,2025-10-13,C0082,P006,Escritorio Compacto,Mobiliario,GBA Sur,Retail,2,220000,0.0,487520.0
+V00212,2025-04-08,C0177,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,3,280000,0.05,826728.0
+V00213,2025-01-23,C0003,P002,Monitor 27,Tecnología,GBA Oeste,Mayorista,5,280000,0.0,1400000.0
+V00214,2025-04-13,C0073,P001,Notebook Pro 14,Tecnología,GBA Norte,Distribuidor,2,950000,0.05,1869980.0
+V00215,2025-11-01,C0043,P007,Auriculares BT,Audio,GBA Norte,Mayorista,2,115000,0.05,244720.0
+V00216,2025-01-12,C0153,P005,Silla Ergonómica,Mobiliario,GBA Sur,Retail,4,310000,0.1,1116000.0
+V00217,2025-12-01,C0124,P003,Teclado Mecánico,Accesorios,GBA Sur,Distribuidor,2,85000,0.05,182818.0
+V00218,2025-09-15,C0057,P003,Teclado Mecánico,Accesorios,GBA Sur,Mayorista,2,85000,0.05,177004.0
+V00219,2025-01-24,C0149,P007,Auriculares BT,Audio,GBA Norte,E-commerce,1,115000,0.05,109250.0
+V00220,2025-04-18,C0126,P004,Mouse Inalámbrico,Accesorios,CABA,E-commerce,2,42000,0.0,87024.0
+V00221,2025-08-20,C0100,P007,Auriculares BT,Audio,GBA Sur,Retail,5,115000,0.05,592135.0
+V00222,2025-01-26,C0007,P008,Webcam HD,Accesorios,GBA Oeste,Mayorista,4,67000,0.0,268000.0
+V00223,2025-08-12,C0054,P006,Escritorio Compacto,Mobiliario,CABA,Retail,3,220000,0.1,643896.0
+V00224,2025-02-14,C0080,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,1,42000,0.1,38253.6
+V00225,2025-06-08,C0083,P009,Tablet 10,Tecnología,GBA Sur,Retail,5,390000,0.0,2067000.0
+V00226,2025-06-15,C0055,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,1,67000,0.05,67469.0
+V00227,2025-09-17,C0129,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,5,78000,0.0,427440.0
+V00228,2025-11-08,C0120,P009,Tablet 10,Tecnología,GBA Sur,Mayorista,1,390000,0.1,393120.0
+V00229,2025-01-25,C0168,P006,Escritorio Compacto,Mobiliario,GBA Sur,E-commerce,4,220000,0.0,880000.0
+V00230,2025-10-26,C0086,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Distribuidor,4,42000,0.0,186144.0
+V00231,2025-08-11,C0069,P002,Monitor 27,Tecnología,Interior,Retail,4,280000,0.1,1092672.0
+V00232,2025-10-06,C0040,P002,Monitor 27,Tecnología,GBA Oeste,Mayorista,5,280000,0.1,1396080.0
+V00233,2025-12-30,C0059,P002,Monitor 27,Tecnología,GBA Sur,Distribuidor,4,280000,0.0,1267840.0
+V00234,2025-08-06,C0116,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,5,67000,0.1,326826.0
+V00235,2025-06-13,C0086,P002,Monitor 27,Tecnología,Interior,Mayorista,3,280000,0.0,890400.0
+V00236,2025-05-09,C0070,P002,Monitor 27,Tecnología,GBA Norte,Retail,2,280000,0.1,528192.0
+V00237,31/02/2025,C0067,P005,Silla Ergonómica,Mobiliario,CABA,Distribuidor,3,310000,0.0,1030440.0
+V00238,2025-01-23,C0038,P002,Monitor 27,Tecnología,CABA,E-commerce,3,280000,0.0,840000.0
+V00239,2025-12-20,C0104,P007,Auriculares BT,Audio,Interior,Distribuidor,4,115000,0.0,520720.0
+V00240,2025-05-03,C0085,P010,Parlante Portátil,Audio,CABA,Retail,1,78000,0.15,69482.4
+V00241,2025-03-27,C0107,P006,Escritorio Compacto,Mobiliario,Interior,Mayorista,3,220000,0.1,608256.0
+V00242,2025-03-24,C0157,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,4,115000,0.0,471040.0
+V00243,2025-06-05,C0127,P003,Teclado Mecánico,Accesorios,GBA Oeste,Mayorista,2,85000,0.1,162180.0
+V00244,2025-10-19,C0041,P009,Tablet 10,Tecnología,GBA Norte,Retail,2,390000,0.05,821028.0
+V00245,2025-02-11,C0011,P001,Notebook Pro 14,Tecnología,GBA Oeste,E-commerce,4,950000,0.05,3653320.0
+V00246,2025-07-21,C0119,P008,Webcam HD,Accesorios,GBA Norte,Mayorista,1,67000,0.1,64641.6
+V00247,2025-05-28,C0027,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Mayorista,3,42000,0.0,132048.0
+V00248,2025-01-12,C0168,P008,Webcam HD,Accesorios,Interior,Retail,4,67000,0.0,268000.0
+V00249,2025-05-12,C0178,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,4,42000,0.0,176064.0
+V00250,2025-06-19,C0084,P006,Escritorio Compacto,Mobiliario,GBA Sur,Distribuidor,5,220000,0.0,1166000.0
+V00251,2025-01-19,C0055,P004,Mouse Inalámbrico,Accesorios,CABA,Distribuidor,5,42000,0.15,178500.0
+V00252,2025-01-11,C0097,P008,Webcam HD,Accesorios,GBA Sur,E-commerce,5,67000,0.0,335000.0
+V00253,2025-02-13,C0071,P002,Monitor 27,Tecnología,GBA Norte,Retail,3,280000,0.0,850080.0
+V00254,2025-02-13,C0016,P006,Escritorio Compacto,Mobiliario,CABA,Mayorista,3,220000,0.0,667920.0
+V00255,2025-02-07,C0006,P010,Parlante Portátil,Audio,GBA Oeste,Distribuidor,3,78000,0.0,236808.0
+V00256,2025-07-02,C0061,P006,Escritorio Compacto,Mobiliario,GBA Norte,Retail,4,220000,0.0,943360.0
+V00257,2025-11-17,C0006,P001,Notebook Pro 14,Tecnología,GBA Sur,Mayorista,4,950000,0.0,4256000.0
+V00258,2025-03-29,C0058,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,1,280000,0.05,272384.0
+V00259,2025-10-25,C0151,P002,Monitor 27,Tecnología,GBA Norte,Mayorista,1,280000,0.0,310240.0
+V00260,2025-01-15,C0076,P004,Mouse Inalámbrico,Accesorios,CABA,Distribuidor,5,42000,0.0,210000.0
+V00261,2025-04-06,C0061,P005,Silla Ergonómica,Mobiliario,GBA Norte,Retail,1,310000,0.05,305102.0
+V00262,2025-08-05,C0165,P004,Mouse Inalámbrico,Accesorios,CABA,Mayorista,2,42000,0.0,91056.0
+V00263,2025-03-26,C0177,P006,Escritorio Compacto,Mobiliario,Interior,Retail,3,220000,0.1,608256.0
+V00264,2025-05-01,C0012,P002,Monitor 27,Tecnología,CABA,E-commerce,2,280000,0.0,586880.0
+V00265,2025-08-02,C0126,P009,Tablet 10,Tecnología,GBA Sur,Retail,1,390000,0.05,401622.0
+V00266,2025-07-05,C0054,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,5,280000,0.15,1275680.0
+V00267,2025-09-25,C0034,P001,Notebook Pro 14,Tecnología,Interior,Retail,4,950000,0.05,3956560.0
+V00268,2025-10-24,C0125,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,1,67000,0.05,70524.2
+V00269,2025-11-07,C0113,P009,Tablet 10,Tecnología,GBA Norte,Retail,2,390000,0.0,873600.0
+V00270,2025-02-08,C0103,P002,Monitor 27,Tecnología,Interior,Retail,2,280000,0.05,538384.0
+V00271,2025-12-08,C0079,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,3,42000,0.0,142632.0
+V00272,2025-06-10,C0133,P009,Tablet 10,Tecnología,GBA Oeste,Distribuidor,2,390000,0.05,785460.0
+V00273,2025-07-16,C0003,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Retail,2,42000,0.0,90048.0
+V00274,2025-05-25,C0016,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,5,42000,0.0,220080.0
+V00275,2025-02-07,C0074,P009,Tablet 10,Tecnología,,Distribuidor,2,390000,0.15,670956.0
+V00276,2025-10-31,C0003,P006,Escritorio Compacto,Mobiliario,GBA Oeste,E-commerce,5,220000,0.15,1035980.0
+V00277,2025-02-23,C0015,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,3,78000,0.0,236808.0
+V00278,2025-11-21,C0179,P007,Auriculares BT,Audio,Interior,Distribuidor,5,115000,0.15,547400.0
+V00279,2025-05-17,C0147,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,3,42000,0.0,132048.0
+V00280,2025-06-26,C0035,P009,Tablet 10,Tecnología,CABA,E-commerce,2,390000,0.0,826800.0
+V00281,2025-05-22,C0151,P009,Tablet 10,Tecnología,GBA Norte,Distribuidor,4,390000,0.0,1634880.0
+V00282,2025-10-16,C0112,P007,Auriculares BT,Audio,CABA,Distribuidor,3,115000,0.1,344034.0
+V00283,2025-09-28,C0095,P009,Tablet 10,Tecnología,Interior,Distribuidor,3,390000,0.15,1089972.0
+V00284,2025-01-13,C0169,P006,Escritorio Compacto,Mobiliario,,Distribuidor,5,220000,0.1,990000.0
+V00285,2025-03-04,C0161,P007,Auriculares BT,Audio,CABA,Mayorista,5,115000,0.1,529920.0
+V00286,2025-11-06,C0120,P002,Monitor 27,Tecnología,Interior,Distribuidor,5,280000,0.0,1568000.0
+V00287,2025-07-30,C0032,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Retail,4,220000,0.05,896192.0
+V00288,2025-05-14,C0092,P009,Tablet 10,Tecnología,CABA,Mayorista,3,390000,0.0,1226160.0
+V00289,2025-09-15,C0101,P010,Parlante Portátil,Audio,Interior,Distribuidor,3,78000,0.0,256464.0
+V00290,2025-08-26,C0054,P007,Auriculares BT,Audio,Interior,E-commerce,1,115000,0.15,105961.0
+V00291,2025-02-08,C0084,P004,Mouse Inalámbrico,Accesorios,CABA,Retail,4,42000,0.15,144513.6
+V00292,2025-12-08,C0115,P002,Monitor 27,Tecnología,Interior,Retail,2,280000,0.05,602224.0
+V00293,2025-03-21,C0049,P004,Mouse Inalámbrico,Accesorios,CABA,Retail,1,42000,0.15,36556.8
+V00294,2025-02-28,C0070,P009,Tablet 10,Tecnología,GBA Sur,Distribuidor,5,390000,0.0,1973400.0
+V00295,2025-06-19,C0113,P001,Notebook Pro 14,Tecnología,CABA,Retail,5,950000,0.1,4531500.0
+V00296,2025-09-25,C0014,P005,Silla Ergonómica,Mobiliario,Interior,Mayorista,5,310000,0.15,1443980.0
+V00297,2025-07-10,C0117,P009,Tablet 10,Tecnología,,E-commerce,2,390000,0.15,710736.0
+V00298,2025-04-03,C0032,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,5,42000,0.15,184926.0
+V00299,2025-08-26,C0159,P009,Tablet 10,Tecnología,CABA,Retail,4,390000,0.05,1606488.0
+V00300,2025-09-22,C0006,P003,Teclado Mecánico,Accesorios,GBA Norte,Retail,4,85000,0.05,354008.0
+V00301,2025-01-22,C0020,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Distribuidor,2,42000,0.0,84000.0
+V00302,2025-06-18,C0146,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,2,220000,0.0,466400.0
+V00303,2025-12-29,C0125,P003,Teclado Mecánico,Accesorios,GBA Norte,Distribuidor,3,85000,0.1,259794.0
+V00304,2025-01-29,,P005,Silla Ergonómica,Mobiliario,GBA Oeste,E-commerce,5,310000,0.1,1395000.0
+V00305,2025-03-28,C0053,P009,Tablet 10,Tecnología,CABA,Mayorista,3,390000,0.1,1078272.0
+V00306,2025-05-29,C0002,P006,Escritorio Compacto,Mobiliario,Interior,Retail,1,220000,0.05,219032.0
+V00307,2025-12-08,C0043,P005,Silla Ergonómica,Mobiliario,CABA,Distribuidor,1,310000,0.0,350920.0
+V00308,2025-04-23,C0011,P008,Webcam HD,Accesorios,Interior,Retail,2,67000,0.0,138824.0
+V00309,2025-10-12,C0028,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,1,42000,0.0,46536.0
+V00310,2025-12-21,C0001,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Mayorista,5,42000,0.0,237720.0
+V00311,2025-07-20,C0027,P005,Silla Ergonómica,Mobiliario,Interior,Retail,2,310000,0.0,664640.0
+V00312,2025-11-02,C0035,P005,Silla Ergonómica,Mobiliario,GBA Oeste,E-commerce,1,310000,0.0,347200.0
+V00313,2025-04-10,C0123,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,1,310000,0.1,289044.0
+V00314,2025-09-19,C0147,P006,Escritorio Compacto,Mobiliario,GBA Norte,Distribuidor,3,220000,0.0,723360.0
+V00315,2025-09-14,C0070,P010,Parlante Portátil,Audio,CABA,E-commerce,5,78000,0.0,427440.0
+V00316,2025-03-10,C0041,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,1,42000,0.1,38707.2
+V00317,2025-02-17,C0128,P002,Monitor 27,Tecnología,GBA Norte,Retail,5,280000,0.0,1416800.0
+V00318,2025-07-04,C0180,P007,Auriculares BT,Audio,Interior,Retail,5,115000,0.1,554760.0
+V00319,2025-06-08,C0024,P008,Webcam HD,Accesorios,Interior,E-commerce,5,67000,0.0,355100.0
+V00320,2025-02-09,C0158,P002,Monitor 27,Tecnología,GBA Norte,Retail,2,280000,0.1,510048.0
+V00321,2025-11-11,C0180,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Distribuidor,1,220000,0.1,221760.0
+V00322,2025-09-28,C0016,P001,Notebook Pro 14,Tecnología,GBA Norte,Mayorista,2,950000,0.0,2082400.0
+V00323,2025-04-28,C0040,P007,Auriculares BT,Audio,CABA,Retail,5,115000,0.05,565915.0
+V00324,2025-05-09,C0176,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Retail,1,310000,0.0,324880.0
+V00325,2025-03-23,C0109,P003,Teclado Mecánico,Accesorios,Interior,Mayorista,3,85000,0.0,261120.0
+V00326,2025-06-06,C0055,P006,Escritorio Compacto,Mobiliario,Interior,Retail,1,220000,0.0,233200.0
+V00327,2025-03-17,C0048,P009,Tablet 10,Tecnología,GBA Oeste,Retail,5,390000,0.1,1797120.0
+V00328,2025-09-10,C0141,P008,Webcam HD,Accesorios,CABA,Retail,3,67000,0.0,220296.0
+V00329,2025-08-14,C0159,P004,Mouse Inalámbrico,Accesorios,Interior,Distribuidor,1,42000,0.0,45528.0
+V00330,2025-03-12,C0097,P002,Monitor 27,Tecnología,Interior,E-commerce,3,280000,0.0,860160.0
+V00331,2025-12-02,C0113,P003,Teclado Mecánico,Accesorios,GBA Sur,Retail,3,85000,0.0,288660.0
+V00332,2025-04-02,C0126,P005,Silla Ergonómica,Mobiliario,GBA Norte,Mayorista,5,310000,0.15,1364930.0
+V00333,2025-05-30,C0131,P007,Auriculares BT,Audio,Interior,Distribuidor,5,115000,0.0,602600.0
+V00334,2025-03-31,C0180,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,4,42000,0.05,163430.4
+V00335,2025-08-25,C0134,P010,Parlante Portátil,Audio,CABA,Mayorista,2,78000,0.0,169104.0
+V00336,2025-02-01,C0159,P004,Mouse Inalámbrico,Accesorios,CABA,E-commerce,1,42000,0.1,38253.6
+V00337,2025-02-06,C0068,P003,Teclado Mecánico,Accesorios,GBA Oeste,Mayorista,1,85000,0.0,86020.0
+V00338,2025-12-26,C0070,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Distribuidor,2,220000,0.1,448272.0
+V00339,2025-10-19,C0121,P006,Escritorio Compacto,Mobiliario,Interior,E-commerce,1,220000,0.0,243760.0
+V00340,2025-07-15,C0079,P010,Parlante Portátil,Audio,GBA Oeste,Mayorista,5,78000,0.05,397176.0
+V00341,2025-06-09,C0061,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,1,390000,0.05,392730.0
+V00342,2025-08-28,C0139,P002,Monitor 27,Tecnología,CABA,Mayorista,1,280000,0.0,303520.0
+V00343,2025-10-11,C0010,P003,Teclado Mecánico,Accesorios,GBA Oeste,Distribuidor,3,85000,0.15,240159.0
+V00344,2025-06-01,C0106,P002,Monitor 27,Tecnología,Interior,E-commerce,4,280000,0.0,1187200.0
+V00345,2025-09-23,C0102,P010,Parlante Portátil,Audio,Interior,E-commerce,3,78000,0.0,256464.0
+V00346,2025-11-08,C0179,P010,Parlante Portátil,Audio,GBA Sur,Distribuidor,2,78000,0.1,157248.0
+V00347,2025-07-28,C0161,P004,Mouse Inalámbrico,Accesorios,CABA,Mayorista,4,42000,0.0,180096.0
+V00348,2025-04-03,C0149,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Retail,3,310000,0.05,915306.0
+V00349,2025-10-12,C0007,P010,Parlante Portátil,Audio,GBA Sur,Retail,5,78000,0.0,432120.0
+V00350,2025-11-23,C0090,P010,Parlante Portátil,Audio,GBA Oeste,Distribuidor,4,78000,0.1,314496.0
+V00351,2025-05-28,C0088,P009,Tablet 10,Tecnología,CABA,Distribuidor,1,390000,0.0,408720.0
+V00352,2025-11-02,C0173,P003,Teclado Mecánico,Accesorios,CABA,E-commerce,4,85000,0.0,380800.0
+V00353,2025-09-28,C0169,P010,Parlante Portátil,Audio,Interior,Mayorista,5,78000,0.05,406068.0
+V00354,2025-11-10,C0060,P007,Auriculares BT,Audio,GBA Oeste,Distribuidor,2,115000,0.0,257600.0
+V00355,2025-08-20,C0152,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,5,42000,0.0,227640.0
+V00356,2025-09-02,C0166,P005,Silla Ergonómica,Mobiliario,CABA,Retail,2,310000,0.15,577592.0
+V00357,2025-12-15,C0126,P002,Monitor 27,Tecnología,GBA Sur,Mayorista,1,280000,0.0,316960.0
+V00358,2025-03-27,C0174,P010,Parlante Portátil,Audio,GBA Norte,Retail,4,78000,0.0,319488.0
+V00359,2025-12-25,C0113,P001,Notebook Pro 14,Tecnología,GBA Oeste,Retail,5,950000,0.0,5377000.0
+V00360,2025-06-08,C0066,P010,Parlante Portátil,Audio,GBA Norte,Mayorista,3,78000,0.1,223236.0
+V00361,2025-02-11,C0083,P010,Parlante Portátil,Audio,GBA Oeste,Mayorista,1,78000,0.1,71042.4
+V00362,2025-10-20,C0180,P010,Parlante Portátil,Audio,CABA,Retail,4,78000,0.0,345696.0
+V00363,2025-06-18,,P010,Parlante Portátil,Audio,GBA Norte,Mayorista,5,78000,0.0,413400.0
+V00364,2025-10-23,C0177,P004,Mouse Inalámbrico,Accesorios,Interior,Retail,5,42000,0.0,232680.0
+V00365,2025-10-16,C0006,P001,Notebook Pro 14,Tecnología,GBA Sur,Distribuidor,5,950000,0.15,4473550.0
+V00366,2025-06-15,C0043,P006,Escritorio Compacto,Mobiliario,GBA Oeste,E-commerce,4,220000,0.0,932800.0
+V00367,2025-08-24,C0138,P008,Webcam HD,Accesorios,CABA,Distribuidor,1,67000,0.0,72628.0
+V00368,31/02/2025,C0016,P008,Webcam HD,Accesorios,GBA Norte,Distribuidor,4,67000,0.05,288207.2
+V00369,2025-02-26,C0136,P009,Tablet 10,Tecnología,GBA Norte,E-commerce,1,390000,0.15,335478.0
+V00370,2025-10-18,C0099,P005,Silla Ergonómica,Mobiliario,GBA Sur,E-commerce,3,310000,0.0,1030440.0
+V00371,2025-02-05,C0063,P004,Mouse Inalámbrico,Accesorios,GBA Norte,E-commerce,3,42000,0.05,121136.4
+V00372,2025-06-07,C0109,P001,Notebook Pro 14,Tecnología,GBA Sur,Mayorista,2,950000,0.0,2014000.0
+V00373,2025-10-15,C0122,P004,Mouse Inalámbrico,Accesorios,Interior,E-commerce,3,42000,0.0,139608.0
+V00374,2025-09-20,C0040,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,4,67000,0.05,279041.6
+V00375,2025-03-22,C0157,P009,Tablet 10,Tecnología,CABA,Distribuidor,5,390000,0.0,1996800.0
+V00376,2025-03-08,C0034,P008,Webcam HD,Accesorios,GBA Sur,Distribuidor,1,67000,0.0,68608.0
+V00377,2025-05-02,C0130,P001,Notebook Pro 14,Tecnología,GBA Sur,Retail,5,950000,0.0,4978000.0
+V00378,2025-07-26,C0031,P001,Notebook Pro 14,Tecnología,GBA Sur,E-commerce,3,950000,0.0,3055200.0
+V00379,2025-11-30,C0048,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,2,310000,0.0,694400.0
+V00380,2025-12-04,C0156,P003,Teclado Mecánico,Accesorios,CABA,E-commerce,1,85000,0.0,96220.0
+V00381,2025-08-13,C0165,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Distribuidor,4,42000,0.0,182112.0
+V00382,2025-09-29,C0113,P003,Teclado Mecánico,Accesorios,CABA,Distribuidor,1,85000,0.0,93160.0
+V00383,2025-01-25,C0095,P007,Auriculares BT,Audio,GBA Oeste,Mayorista,3,115000,0.0,345000.0
+V00384,2025-01-23,C0013,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,2,310000,0.1,558000.0
+V00385,2025-10-19,C0013,P007,Auriculares BT,Audio,GBA Sur,Retail,5,115000,0.0,637100.0
+V00386,2025-04-05,C0035,P002,Monitor 27,Tecnología,CABA,Mayorista,3,280000,0.15,739704.0
+V00387,2025-02-22,C0015,P006,Escritorio Compacto,Mobiliario,CABA,E-commerce,3,220000,0.15,567732.0
+V00388,2025-12-18,C0147,P002,Monitor 27,Tecnología,GBA Oeste,Retail,1,280000,0.1,285264.0
+V00389,2025-09-15,C0148,P002,Monitor 27,Tecnología,GBA Norte,E-commerce,4,280000,0.0,1227520.0
+V00390,2025-05-06,C0178,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,4,115000,0.1,433872.0
+V00391,2025-09-18,C0114,P005,Silla Ergonómica,Mobiliario,GBA Sur,Retail,3,310000,0.0,1019280.0
+V00392,2025-09-22,C0133,P005,Silla Ergonómica,Mobiliario,GBA Sur,Retail,2,310000,0.15,577592.0
+V00393,31/02/2025,C0040,P002,Monitor 27,Tecnología,CABA,Mayorista,2,280000,0.0,607040.0
+V00394,2025-06-12,C0102,P006,Escritorio Compacto,Mobiliario,GBA Sur,Distribuidor,4,220000,0.0,932800.0
+V00395,2025-04-04,C0057,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Retail,2,310000,0.0,642320.0
+V00396,2025-07-04,C0074,P007,Auriculares BT,Audio,Interior,Retail,1,115000,0.0,123280.0
+V00397,2025-02-24,C0048,P009,Tablet 10,Tecnología,CABA,Mayorista,4,390000,0.15,1341912.0
+V00398,2025-03-29,C0054,P005,Silla Ergonómica,Mobiliario,GBA Oeste,E-commerce,2,310000,0.0,634880.0
+V00399,2025-07-11,C0141,P010,Parlante Portátil,Audio,Interior,Distribuidor,5,78000,0.05,397176.0
+V00400,2025-02-28,C0127,P006,Escritorio Compacto,Mobiliario,Interior,E-commerce,3,220000,0.05,634524.0
+V00401,2025-07-23,C0058,P003,Teclado Mecánico,Accesorios,GBA Sur,E-commerce,5,85000,0.0,455600.0
+V00402,2025-05-22,C0169,P003,Teclado Mecánico,Accesorios,Interior,Mayorista,4,85000,0.05,338504.0
+V00403,2025-05-22,C0015,P001,Notebook Pro 14,Tecnología,CABA,Mayorista,5,950000,0.05,4729100.0
+V00404,2025-02-08,C0101,P006,Escritorio Compacto,Mobiliario,Interior,Retail,4,220000,0.1,801504.0
+V00405,2025-03-10,C0004,P009,Tablet 10,Tecnología,GBA Norte,Mayorista,1,390000,0.05,379392.0
+V00406,2025-04-22,C0010,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,3,67000,0.1,187412.4
+V00407,2025-11-01,C0076,P005,Silla Ergonómica,Mobiliario,CABA,E-commerce,1,310000,0.15,295120.0
+V00408,2025-04-11,C0121,P008,Webcam HD,Accesorios,GBA Norte,Retail,4,67000,0.05,263765.6
+V00409,2025-10-06,C0023,P007,Auriculares BT,Audio,CABA,Retail,1,115000,0.1,114678.0
+V00410,2025-08-03,C0108,P003,Teclado Mecánico,Accesorios,GBA Sur,Retail,5,85000,0.1,414630.0
+V00411,2025-05-03,C0028,P003,Teclado Mecánico,Accesorios,GBA Norte,Mayorista,5,85000,0.1,400860.0
+V00412,2025-02-27,C0088,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,1,310000,0.0,313720.0
+V00413,2025-09-30,C0021,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,3,67000,0.1,198266.4
+V00414,2025-07-18,C0098,P006,Escritorio Compacto,Mobiliario,Interior,Retail,1,220000,0.0,235840.0
+V00415,2025-02-24,C0042,P002,Monitor 27,Tecnología,CABA,E-commerce,2,280000,0.1,510048.0
+V00416,2025-07-27,C0138,P008,Webcam HD,Accesorios,GBA Sur,E-commerce,2,67000,0.05,136465.6
+V00417,2025-02-16,C0002,P007,Auriculares BT,Audio,GBA Norte,Mayorista,1,115000,0.0,116380.0
+V00418,2025-06-01,C0166,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,3,42000,0.0,133560.0
+V00419,2025-06-17,C0092,P003,Teclado Mecánico,Accesorios,GBA Norte,Mayorista,4,85000,0.15,306340.0
+V00420,2025-02-23,C0098,P001,Notebook Pro 14,Tecnología,GBA Sur,Retail,1,950000,0.05,913330.0
+V00421,2025-01-13,C0133,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Retail,4,42000,0.0,168000.0
+V00422,2025-04-04,C0058,P008,Webcam HD,Accesorios,Interior,Retail,5,67000,0.05,329707.0
+V00423,2025-04-17,C0151,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,5,67000,0.0,347060.0
+V00424,2025-11-24,C0167,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,1,280000,0.0,313600.0
+V00425,2025-09-16,C0038,P008,Webcam HD,Accesorios,GBA Oeste,Mayorista,3,67000,0.15,187251.6
+V00426,2025-11-04,C0142,P002,Monitor 27,Tecnología,GBA Sur,Distribuidor,3,280000,0.15,799680.0
+V00427,2025-09-23,C0033,P005,Silla Ergonómica,Mobiliario,GBA Sur,Distribuidor,5,310000,0.15,1443980.0
+V00428,2025-10-10,C0161,P009,Tablet 10,Tecnología,CABA,Retail,5,390000,0.1,1944540.0
+V00429,2025-09-19,C0139,P003,Teclado Mecánico,Accesorios,CABA,Retail,2,85000,0.1,167688.0
+V00430,2025-01-08,C0164,P001,Notebook Pro 14,Tecnología,GBA Oeste,Distribuidor,4,950000,0.0,3800000.0
+V00431,2025-07-31,C0103,P009,Tablet 10,Tecnología,GBA Oeste,E-commerce,2,390000,0.0,836160.0
+V00432,2025-05-07,C0090,P009,Tablet 10,Tecnología,GBA Norte,Retail,4,390000,0.05,1553136.0
+V00433,2025-01-07,C0022,P006,Escritorio Compacto,Mobiliario,Interior,Retail,4,220000,0.05,836000.0
+V00434,2025-09-22,C0002,P003,Teclado Mecánico,Accesorios,GBA Oeste,Mayorista,1,85000,0.05,88502.0
+V00435,2025-02-07,C0002,P007,Auriculares BT,Audio,GBA Norte,E-commerce,5,115000,0.1,523710.0
+V00436,2025-03-01,C0078,P010,Parlante Portátil,Audio,CABA,Distribuidor,3,78000,0.05,227635.2
+V00437,2025-09-15,C0142,P001,Notebook Pro 14,Tecnología,GBA Oeste,Mayorista,3,950000,0.0,3123600.0
+V00438,2025-06-09,C0037,P007,Auriculares BT,Audio,GBA Norte,E-commerce,2,115000,0.1,219420.0
+V00439,2025-11-01,C0063,P010,Parlante Portátil,Audio,Interior,Distribuidor,1,78000,0.0,87360.0
+V00440,2025-07-13,C0011,P003,Teclado Mecánico,Accesorios,Interior,E-commerce,3,85000,0.0,273360.0
+V00441,2025-03-14,C0082,P002,Monitor 27,Tecnología,CABA,Distribuidor,2,280000,0.1,516096.0
+V00442,2025-07-23,C0035,P005,Silla Ergonómica,Mobiliario,CABA,Retail,1,310000,0.05,315704.0
+V00443,31/02/2025,C0081,P007,Auriculares BT,Audio,GBA Oeste,Retail,1,115000,0.0,124660.0
+V00444,2025-08-02,C0161,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,2,78000,0.0,169104.0
+V00445,2025-03-07,C0180,P003,Teclado Mecánico,Accesorios,GBA Oeste,Retail,5,85000,0.1,391680.0
+V00446,2025-11-06,C0068,P006,Escritorio Compacto,Mobiliario,GBA Sur,Mayorista,5,220000,0.05,1170400.0
+V00447,2025-01-02,C0073,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,2,42000,0.15,71400.0
+V00448,2025-12-21,C0122,P009,Tablet 10,Tecnología,GBA Oeste,Distribuidor,2,390000,0.05,838812.0
+V00449,2025-03-21,C0096,P007,Auriculares BT,Audio,CABA,Mayorista,3,115000,0.0,353280.0
+V00450,2025-04-17,C0073,P007,Auriculares BT,Audio,GBA Norte,Retail,2,115000,0.1,214452.0
+V00451,2025-09-25,C0175,P006,Escritorio Compacto,Mobiliario,CABA,E-commerce,4,220000,0.0,964480.0
+V00452,2025-11-24,C0072,P005,Silla Ergonómica,Mobiliario,Interior,Distribuidor,4,310000,0.1,1249920.0
+V00453,2025-01-25,C0127,P004,Mouse Inalámbrico,Accesorios,Interior,Retail,1,42000,0.05,39900.0
+V00454,2025-12-07,C0123,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,E-commerce,2,42000,0.05,90333.6
+V00455,2025-10-01,C0027,P007,Auriculares BT,Audio,GBA Norte,Mayorista,3,115000,0.0,382260.0
+V00456,2025-01-21,C0026,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Distribuidor,5,42000,0.05,199500.0
+V00457,2025-12-20,C0162,P007,Auriculares BT,Audio,GBA Sur,Mayorista,5,115000,0.0,650900.0
+V00458,2025-11-04,C0074,P004,Mouse Inalámbrico,Accesorios,,Distribuidor,5,42000,0.0,235200.0
+V00459,2025-04-23,C0088,P007,Auriculares BT,Audio,GBA Norte,E-commerce,5,115000,0.0,595700.0
+V00460,2025-07-01,C0007,P003,Teclado Mecánico,Accesorios,CABA,Distribuidor,1,85000,0.0,91120.0
+V00461,2025-03-23,C0082,P003,Teclado Mecánico,Accesorios,,Distribuidor,1,85000,0.0,87040.0
+V00462,2025-06-16,C0107,P009,Tablet 10,Tecnología,CABA,Retail,3,390000,0.0,1240200.0
+V00463,2025-04-17,C0050,P008,Webcam HD,Accesorios,CABA,Distribuidor,2,67000,0.05,131882.8
+V00464,2025-09-06,C0070,P004,Mouse Inalámbrico,Accesorios,GBA Norte,E-commerce,5,42000,0.0,230160.0
+V00465,2025-09-06,C0008,P002,Monitor 27,Tecnología,GBA Sur,Distribuidor,3,280000,0.1,828576.0
+V00466,2025-11-05,C0160,P010,Parlante Portátil,Audio,,E-commerce,4,78000,0.05,331968.0
+V00467,2025-11-25,C0024,P008,Webcam HD,Accesorios,Interior,Mayorista,3,67000,0.05,213864.0
+V00468,2025-03-26,C0093,P002,Monitor 27,Tecnología,GBA Oeste,Retail,4,280000,0.1,1032192.0
+V00469,2025-09-24,C0101,P003,Teclado Mecánico,Accesorios,CABA,Distribuidor,3,85000,0.1,251532.0
+V00470,2025-02-04,C0069,P008,Webcam HD,Accesorios,Interior,E-commerce,2,67000,0.1,122047.2
+V00471,2025-05-19,C0114,P002,Monitor 27,Tecnología,Interior,Distribuidor,1,280000,0.1,264096.0
+V00472,2025-07-01,C0151,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Retail,2,42000,0.0,90048.0
+V00473,2025-11-26,C0055,P007,Auriculares BT,Audio,GBA Sur,Mayorista,5,115000,0.0,644000.0
+V00474,2025-11-06,C0031,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,1,115000,0.0,128800.0
+V00475,2025-03-29,C0066,P002,Monitor 27,Tecnología,Interior,Mayorista,2,280000,0.0,573440.0
+V00476,2025-10-15,C0064,P001,Notebook Pro 14,Tecnología,CABA,Mayorista,1,950000,0.15,894710.0
+V00477,2025-07-20,C0095,P009,Tablet 10,Tecnología,GBA Norte,Retail,3,390000,0.05,1191528.0
+V00478,2025-07-07,C0085,P009,Tablet 10,Tecnología,Interior,E-commerce,4,390000,0.1,1505088.0
+V00479,2025-02-27,C0129,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Retail,2,220000,0.15,378488.0
+V00480,2025-10-25,C0133,P010,Parlante Portátil,Audio,CABA,Retail,4,78000,0.0,345696.0
+V00481,2025-02-13,C0052,P007,Auriculares BT,Audio,GBA Oeste,Distribuidor,5,115000,0.0,581900.0
+V00482,2025-11-19,C0172,P010,Parlante Portátil,Audio,GBA Norte,Mayorista,5,78000,0.0,436800.0
+V00483,2025-05-01,C0180,P003,Teclado Mecánico,Accesorios,CABA,Distribuidor,5,85000,0.0,445400.0
+V00484,2025-02-03,C0067,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,2,42000,0.0,85008.0
+V00485,31/02/2025,C0164,P007,Auriculares BT,Audio,GBA Norte,Mayorista,4,115000,0.15,419152.0
+V00486,2025-06-25,C0088,P001,Notebook Pro 14,Tecnología,GBA Norte,Distribuidor,3,950000,0.05,2869950.0
+V00487,2025-04-08,C0099,P004,Mouse Inalámbrico,Accesorios,Interior,Retail,3,42000,0.0,130536.0
+V00488,2025-01-20,C0031,P008,Webcam HD,Accesorios,Interior,Mayorista,2,67000,0.05,127300.0
+V00489,2025-12-11,C0095,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,4,115000,0.0,520720.0
+V00490,2025-02-22,C0155,P001,Notebook Pro 14,Tecnología,CABA,Mayorista,1,950000,0.0,961400.0
+V00491,2025-03-10,C0139,P006,Escritorio Compacto,Mobiliario,CABA,Distribuidor,5,220000,0.0,1126400.0
+V00492,2025-04-14,C0002,P002,Monitor 27,Tecnología,CABA,E-commerce,1,280000,0.0,290080.0
+V00493,2025-11-18,C0021,P007,Auriculares BT,Audio,GBA Oeste,E-commerce,4,115000,0.1,463680.0
+V00494,2025-12-25,C0109,P010,Parlante Portátil,Audio,CABA,E-commerce,2,78000,0.0,176592.0
+V00495,2025-04-26,C0087,P007,Auriculares BT,Audio,GBA Norte,Distribuidor,1,115000,0.05,113183.0
+V00496,2025-03-24,C0153,P002,Monitor 27,Tecnología,Interior,Mayorista,4,280000,0.0,1146880.0
+V00497,2025-11-19,C0137,P005,Silla Ergonómica,Mobiliario,Interior,Mayorista,5,310000,0.1,1562400.0
+V00498,2025-09-05,C0042,P004,Mouse Inalámbrico,Accesorios,CABA,Retail,3,42000,0.0,138096.0
+V00499,2025-10-07,C0019,P009,Tablet 10,Tecnología,GBA Norte,E-commerce,4,390000,0.15,1469208.0
+V00500,2025-11-10,C0066,P006,Escritorio Compacto,Mobiliario,GBA Norte,Mayorista,1,220000,0.05,234080.0
+V00501,2025-06-10,C0175,P002,Monitor 27,Tecnología,Interior,Mayorista,2,280000,0.1,534240.0
+V00502,2025-04-26,C0032,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,5,220000,0.1,1025640.0
+V00503,2025-12-09,C0151,P008,Webcam HD,Accesorios,GBA Norte,E-commerce,4,67000,0.1,273038.4
+V00504,2025-06-17,C0125,P007,Auriculares BT,Audio,GBA Sur,Retail,2,115000,0.0,243800.0
+V00505,2025-02-01,C0036,P009,Tablet 10,Tecnología,GBA Norte,Distribuidor,4,390000,0.0,1578720.0
+V00506,2025-11-26,C0129,P005,Silla Ergonómica,Mobiliario,CABA,Retail,1,310000,0.15,295120.0
+V00507,2025-02-24,C0006,P005,Silla Ergonómica,Mobiliario,GBA Sur,E-commerce,2,310000,0.0,627440.0
+V00508,2025-10-20,C0074,P007,Auriculares BT,Audio,GBA Sur,E-commerce,2,115000,0.05,242098.0
+V00509,2025-09-16,C0065,P005,Silla Ergonómica,Mobiliario,GBA Oeste,E-commerce,4,310000,0.0,1359040.0
+V00510,2025-11-06,C0014,P003,Teclado Mecánico,Accesorios,GBA Oeste,Mayorista,4,85000,0.1,342720.0
+V00511,2025-02-18,C0078,P008,Webcam HD,Accesorios,GBA Oeste,Distribuidor,1,67000,0.1,61023.6
+V00512,2025-03-11,C0038,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,4,280000,0.0,1146880.0
+V00513,2025-11-30,C0061,P005,Silla Ergonómica,Mobiliario,Interior,Mayorista,4,310000,0.1,1249920.0
+V00514,2025-05-29,C0121,P010,Parlante Portátil,Audio,GBA Sur,Distribuidor,4,78000,0.0,326976.0
+V00515,2025-08-19,C0127,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Mayorista,3,42000,0.0,136584.0
+V00516,2025-03-02,C0111,P008,Webcam HD,Accesorios,CABA,E-commerce,2,67000,0.15,116633.6
+V00517,2025-04-05,C0143,P003,Teclado Mecánico,Accesorios,GBA Oeste,Distribuidor,2,85000,0.0,176120.0
+V00518,2025-01-22,C0035,P010,Parlante Portátil,Audio,Interior,Retail,3,78000,0.05,222300.0
+V00519,2025-11-06,C0143,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Distribuidor,1,42000,0.15,39984.0
+V00520,2025-10-06,C0057,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Retail,5,42000,0.0,232680.0
+V00521,2025-10-27,C0092,P008,Webcam HD,Accesorios,GBA Norte,Retail,1,67000,0.05,70524.2
+V00522,2025-05-03,C0132,P006,Escritorio Compacto,Mobiliario,GBA Sur,Retail,3,220000,0.0,691680.0
+V00523,2025-04-10,C0166,P007,Auriculares BT,Audio,CABA,Mayorista,2,115000,0.1,214452.0
+V00524,2025-10-01,C0016,P002,Monitor 27,Tecnología,GBA Sur,Mayorista,3,280000,0.15,791112.0
+V00525,2025-09-09,C0070,P005,Silla Ergonómica,Mobiliario,Interior,Distribuidor,3,310000,0.0,1019280.0
+V00526,2025-09-04,C0001,P010,Parlante Portátil,Audio,GBA Sur,E-commerce,2,78000,0.05,162427.2
+V00527,2025-06-30,C0175,P010,Parlante Portátil,Audio,Interior,Mayorista,2,78000,0.05,157092.0
+V00528,2025-04-19,C0030,P003,Teclado Mecánico,Accesorios,GBA Norte,Retail,3,85000,0.05,250971.0
+V00529,31/02/2025,C0136,P004,Mouse Inalámbrico,Accesorios,Interior,Mayorista,2,42000,0.15,71400.0
+V00530,31/02/2025,C0151,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,5,67000,0.0,347060.0
+V00531,2025-05-23,C0120,P002,Monitor 27,Tecnología,Interior,Retail,1,280000,0.0,293440.0
+V00532,2025-02-14,C0170,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Mayorista,3,220000,0.0,667920.0
+V00533,2025-03-22,C0128,P009,Tablet 10,Tecnología,GBA Sur,Retail,5,390000,0.0,1996800.0
+V00534,2025-03-17,C0064,P006,Escritorio Compacto,Mobiliario,GBA Oeste,E-commerce,5,220000,0.15,957440.0
+V00535,2025-12-01,C0133,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,1,67000,0.0,75844.0
+V00536,2025-11-05,C0007,P005,Silla Ergonómica,Mobiliario,Interior,Retail,5,310000,0.0,1736000.0
+V00537,2025-10-17,C0095,P003,Teclado Mecánico,Accesorios,Interior,Retail,5,85000,0.0,470900.0
+V00538,2025-04-16,C0027,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,3,42000,0.0,130536.0
+V00539,2025-08-20,C0140,P006,Escritorio Compacto,Mobiliario,GBA Sur,Retail,5,220000,0.0,1192400.0
+V00540,2025-09-30,C0158,P009,Tablet 10,Tecnología,GBA Oeste,Retail,4,390000,0.0,1709760.0
+V00541,2025-05-09,C0080,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Mayorista,3,220000,0.0,691680.0
+V00542,2025-12-04,C0024,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Retail,2,42000,0.1,85579.2
+V00543,2025-03-03,C0133,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,1,78000,0.1,71884.8
+V00544,2025-12-29,C0164,P010,Parlante Portátil,Audio,GBA Norte,E-commerce,1,78000,0.0,88296.0
+V00545,2025-10-25,C0164,P009,Tablet 10,Tecnología,Interior,Distribuidor,2,390000,0.0,864240.0
+V00546,2025-12-03,C0130,P005,Silla Ergonómica,Mobiliario,GBA Sur,Distribuidor,1,310000,0.0,350920.0
+V00547,2025-10-13,C0041,P008,Webcam HD,Accesorios,CABA,E-commerce,1,67000,0.1,66812.4
+V00548,2025-10-23,C0015,P008,Webcam HD,Accesorios,GBA Sur,Retail,1,67000,0.0,74236.0
+V00549,2025-04-29,C0098,P001,Notebook Pro 14,Tecnología,GBA Oeste,Retail,4,950000,0.15,3346280.0
+V00550,2025-02-22,C0018,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,2,67000,0.0,135608.0
+V00551,2025-12-03,C0012,P003,Teclado Mecánico,Accesorios,CABA,Retail,3,85000,0.05,274227.0
+V00552,2025-09-05,C0042,P009,Tablet 10,Tecnología,GBA Sur,Mayorista,5,390000,0.05,2030340.0
+V00553,2025-05-19,C0057,P001,Notebook Pro 14,Tecnología,Interior,Mayorista,3,950000,0.0,2986800.0
+V00554,2025-06-19,C0066,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,4,42000,0.05,169176.0
+V00555,2025-07-15,C0023,P010,Parlante Portátil,Audio,GBA Oeste,Retail,1,78000,0.0,83616.0
+V00556,2025-09-12,C0049,P005,Silla Ergonómica,Mobiliario,GBA Sur,Mayorista,2,310000,0.0,679520.0
+V00557,2025-09-30,C0073,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,1,67000,0.05,69760.4
+V00558,2025-01-20,C0041,P002,Monitor 27,Tecnología,CABA,E-commerce,4,280000,0.05,1064000.0
+V00559,2025-10-25,C0180,P007,Auriculares BT,Audio,GBA Oeste,Distribuidor,3,115000,0.15,324921.0
+V00560,2025-11-26,C0089,P002,Monitor 27,Tecnología,Interior,Mayorista,4,280000,0.05,1191680.0
+V00561,2025-08-28,C0079,P001,Notebook Pro 14,Tecnología,GBA Norte,Retail,2,950000,0.1,1853640.0
+V00562,2025-06-20,C0006,P004,Mouse Inalámbrico,Accesorios,CABA,E-commerce,3,42000,0.0,133560.0
+V00563,2025-01-07,C0121,P003,Teclado Mecánico,Accesorios,GBA Sur,E-commerce,3,85000,0.0,255000.0
+V00564,2025-07-24,C0155,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Retail,2,220000,0.15,400928.0
+V00565,2025-06-11,C0047,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,2,42000,0.0,89040.0
+V00566,2025-10-18,C0110,P009,Tablet 10,Tecnología,GBA Norte,E-commerce,2,390000,0.0,864240.0
+V00567,2025-12-12,C0030,P010,Parlante Portátil,Audio,CABA,E-commerce,2,78000,0.0,176592.0
+V00568,2025-09-28,C0105,P005,Silla Ergonómica,Mobiliario,Interior,Mayorista,5,310000,0.0,1698800.0
+V00569,2025-09-24,C0116,P007,Auriculares BT,Audio,CABA,E-commerce,2,115000,0.0,252080.0
+V00570,2025-12-14,C0031,P002,Monitor 27,Tecnología,GBA Sur,E-commerce,1,280000,0.05,301112.0
+V00571,2025-03-02,C0122,P006,Escritorio Compacto,Mobiliario,GBA Norte,Distribuidor,3,220000,0.1,608256.0
+V00572,2025-03-30,C0009,P007,Auriculares BT,Audio,Interior,Retail,2,115000,0.05,223744.0
+V00573,2025-02-19,C0177,P001,Notebook Pro 14,Tecnología,GBA Oeste,Mayorista,1,950000,0.0,961400.0
+V00574,2025-02-18,C0148,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,5,310000,0.0,1568600.0
+V00575,2025-10-18,C0056,P008,Webcam HD,Accesorios,GBA Norte,Mayorista,5,67000,0.15,315503.0
+V00576,2025-01-27,C0116,P010,Parlante Portátil,Audio,CABA,Mayorista,3,78000,0.0,234000.0
+V00577,2025-08-17,C0126,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,1,42000,0.05,43251.6
+V00578,2025-06-25,C0115,P001,Notebook Pro 14,Tecnología,GBA Sur,E-commerce,3,950000,0.05,2869950.0
+V00579,2025-10-10,C0023,P001,Notebook Pro 14,Tecnología,GBA Oeste,E-commerce,2,950000,0.0,2105200.0
+V00580,2025-12-14,C0003,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,5,42000,0.05,225834.0
+V00581,2025-12-21,C0050,P009,Tablet 10,Tecnología,GBA Oeste,E-commerce,2,390000,0.0,882960.0
+V00582,2025-02-05,C0050,P001,Notebook Pro 14,Tecnología,GBA Sur,Retail,1,950000,0.0,961400.0
+V00583,2025-11-05,C0160,P009,Tablet 10,Tecnología,CABA,Distribuidor,4,390000,0.1,1572480.0
+V00584,2025-06-05,C0047,P009,Tablet 10,Tecnología,CABA,Distribuidor,2,390000,0.1,744120.0
+V00585,2025-12-13,C0010,P005,Silla Ergonómica,Mobiliario,Interior,Mayorista,5,310000,0.0,1754600.0
+V00586,2025-12-08,C0052,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Retail,3,42000,0.05,135500.4
+V00587,2025-08-16,C0022,P004,Mouse Inalámbrico,Accesorios,CABA,Distribuidor,2,42000,0.1,81950.4
+V00588,2025-04-12,C0004,P006,Escritorio Compacto,Mobiliario,GBA Sur,Mayorista,3,220000,0.05,649572.0
+V00589,2025-04-17,C0174,P009,Tablet 10,Tecnología,GBA Oeste,Distribuidor,1,390000,0.0,404040.0
+V00590,2025-03-01,C0116,P008,Webcam HD,Accesorios,GBA Sur,E-commerce,5,67000,0.0,343040.0
+V00591,2025-12-28,C0079,P010,Parlante Portátil,Audio,CABA,Distribuidor,1,78000,0.0,88296.0
+V00592,2025-01-13,C0042,P002,Monitor 27,Tecnología,CABA,E-commerce,3,280000,0.0,840000.0
+V00593,2025-03-24,C0010,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Distribuidor,4,42000,0.05,163430.4
+V00594,2025-12-29,C0013,P001,Notebook Pro 14,Tecnología,CABA,Retail,2,950000,0.15,1828180.0
+V00595,2025-08-03,C0035,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,E-commerce,1,42000,0.0,45528.0
+V00596,2025-05-11,C0157,P001,Notebook Pro 14,Tecnología,CABA,Mayorista,4,950000,0.1,3584160.0
+V00597,2025-04-16,C0165,P007,Auriculares BT,Audio,CABA,E-commerce,5,115000,0.1,536130.0
+V00598,2025-04-28,C0046,P006,Escritorio Compacto,Mobiliario,GBA Norte,Retail,4,220000,0.1,820512.0
+V00599,2025-06-27,C0153,P003,Teclado Mecánico,Accesorios,GBA Norte,Distribuidor,2,85000,0.05,171190.0
+V00600,2025-08-15,C0166,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,1,42000,0.0,45528.0
+V00601,2025-03-02,C0080,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,2,220000,0.0,450560.0
+V00602,2025-01-26,C0001,P009,Tablet 10,Tecnología,CABA,Distribuidor,1,390000,0.0,390000.0
+V00603,2025-06-14,C0130,P004,Mouse Inalámbrico,Accesorios,Interior,E-commerce,2,42000,0.0,89040.0
+V00604,2025-05-06,C0071,P007,Auriculares BT,Audio,Interior,Mayorista,3,115000,0.05,343482.0
+V00605,2025-11-05,C0098,P009,Tablet 10,Tecnología,GBA Oeste,Retail,3,390000,0.05,1244880.0
+V00606,2025-01-01,C0005,P002,Monitor 27,Tecnología,GBA Norte,E-commerce,4,280000,0.0,1120000.0
+V00607,2025-05-20,C0124,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Distribuidor,2,220000,0.0,461120.0
+V00608,2025-01-22,C0034,P006,Escritorio Compacto,Mobiliario,GBA Sur,Retail,1,220000,0.1,198000.0
+V00609,2025-01-12,C0125,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,E-commerce,2,42000,0.05,79800.0
+V00610,2025-06-08,C0024,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Retail,4,42000,0.15,151368.0
+V00611,31/02/2025,C0171,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,4,42000,0.0,186144.0
+V00612,2025-03-02,C0094,P003,Teclado Mecánico,Accesorios,GBA Oeste,Distribuidor,3,85000,0.1,235008.0
+V00613,2025-11-24,C0085,P006,Escritorio Compacto,Mobiliario,CABA,Mayorista,3,220000,0.0,739200.0
+V00614,2025-09-15,C0013,P003,Teclado Mecánico,Accesorios,GBA Oeste,Retail,4,85000,0.0,372640.0
+V00615,2025-02-18,C0129,P004,Mouse Inalámbrico,Accesorios,GBA Norte,E-commerce,3,42000,0.0,127512.0
+V00616,2025-08-30,C0069,P003,Teclado Mecánico,Accesorios,GBA Oeste,Distribuidor,5,85000,0.15,391595.0
+V00617,2025-02-07,C0010,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,1,42000,0.0,42504.0
+V00618,2025-11-21,C0064,P005,Silla Ergonómica,Mobiliario,CABA,Distribuidor,4,310000,0.05,1319360.0
+V00619,2025-04-19,C0096,P008,Webcam HD,Accesorios,GBA Norte,Distribuidor,5,67000,0.05,329707.0
+V00620,2025-02-10,C0117,P009,Tablet 10,Tecnología,GBA Norte,E-commerce,4,390000,0.1,1420848.0
+V00621,2025-11-29,C0169,P004,Mouse Inalámbrico,Accesorios,Interior,Retail,3,42000,0.05,134064.0
+V00622,2025-03-31,C0066,P002,Monitor 27,Tecnología,CABA,Retail,2,280000,0.1,516096.0
+V00623,2025-07-02,C0179,P003,Teclado Mecánico,Accesorios,GBA Norte,E-commerce,3,85000,0.15,232356.0
+V00624,2025-10-20,C0078,P010,Parlante Portátil,Audio,GBA Sur,Distribuidor,1,78000,0.0,86424.0
+V00625,2025-09-07,C0146,P007,Auriculares BT,Audio,GBA Norte,Retail,3,115000,0.15,321402.0
+V00626,2025-06-10,C0160,P010,Parlante Portátil,Audio,GBA Sur,Mayorista,5,78000,0.0,413400.0
+V00627,2025-05-31,C0150,P007,Auriculares BT,Audio,Interior,Distribuidor,5,115000,0.05,572470.0
+V00628,2025-08-17,C0124,P007,Auriculares BT,Audio,GBA Sur,Mayorista,4,115000,0.0,498640.0
+V00629,2025-12-25,C0153,P001,Notebook Pro 14,Tecnología,GBA Norte,Retail,3,950000,0.0,3226200.0
+V00630,2025-08-26,C0118,P010,Parlante Portátil,Audio,GBA Sur,E-commerce,3,78000,0.1,228290.4
+V00631,2025-07-26,C0073,P008,Webcam HD,Accesorios,CABA,Retail,4,67000,0.05,272931.2
+V00632,2025-03-29,C0018,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,4,310000,0.0,1269760.0
+V00633,2025-03-31,C0014,P005,Silla Ergonómica,Mobiliario,Interior,Retail,5,310000,0.1,1428480.0
+V00634,2025-10-24,C0059,P001,Notebook Pro 14,Tecnología,,Distribuidor,2,950000,0.05,1999940.0
+V00635,2025-10-07,C0022,P008,Webcam HD,Accesorios,GBA Sur,Retail,1,67000,0.1,66812.4
+V00636,2025-08-10,C0153,P010,Parlante Portátil,Audio,CABA,Mayorista,2,78000,0.0,169104.0
+V00637,2025-07-29,C0066,P007,Auriculares BT,Audio,GBA Norte,E-commerce,1,115000,0.15,104788.0
+V00638,2025-12-14,C0139,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Mayorista,5,42000,0.0,237720.0
+V00639,2025-04-02,C0138,P008,Webcam HD,Accesorios,CABA,Retail,4,67000,0.15,236000.8
+V00640,2025-04-14,C0088,P010,Parlante Portátil,Audio,GBA Norte,E-commerce,5,78000,0.0,404040.0
+V00641,2025-04-06,C0033,P003,Teclado Mecánico,Accesorios,GBA Sur,Retail,3,85000,0.0,264180.0
+V00642,2025-05-15,C0094,P003,Teclado Mecánico,Accesorios,GBA Oeste,Retail,5,85000,0.0,445400.0
+V00643,2025-03-17,C0084,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Mayorista,2,42000,0.15,73113.6
+V00644,2025-06-28,C0126,P009,Tablet 10,Tecnología,Interior,E-commerce,1,390000,0.0,413400.0
+V00645,2025-10-01,C0090,P003,Teclado Mecánico,Accesorios,GBA Norte,Mayorista,5,85000,0.1,423810.0
+V00646,2025-01-04,C0007,P003,Teclado Mecánico,Accesorios,GBA Sur,E-commerce,1,85000,0.1,76500.0
+V00647,2025-12-01,C0005,P001,Notebook Pro 14,Tecnología,GBA Norte,Retail,5,950000,0.0,5377000.0
+V00648,2025-09-21,C0047,P007,Auriculares BT,Audio,CABA,Mayorista,2,115000,0.05,239476.0
+V00649,2025-12-31,C0117,P008,Webcam HD,Accesorios,GBA Sur,Retail,4,67000,0.0,303376.0
+V00650,2025-03-15,C0160,P007,Auriculares BT,Audio,GBA Norte,E-commerce,2,115000,0.15,200192.0
+V00651,2025-04-14,C0106,P003,Teclado Mecánico,Accesorios,GBA Norte,E-commerce,1,85000,0.05,83657.0
+V00652,2025-12-01,C0069,P006,Escritorio Compacto,Mobiliario,Interior,Mayorista,3,220000,0.1,672408.0
+V00653,2025-12-30,C0018,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,4,67000,0.15,257869.6
+V00654,2025-02-25,C0096,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,4,220000,0.0,890560.0
+V00655,2025-09-10,C0104,P009,Tablet 10,Tecnología,GBA Norte,E-commerce,4,390000,0.0,1709760.0
+V00656,2025-03-01,C0096,P010,Parlante Portátil,Audio,CABA,Retail,2,78000,0.0,159744.0
+V00657,2025-07-10,C0117,P002,Monitor 27,Tecnología,GBA Sur,E-commerce,2,280000,0.0,600320.0
+V00658,2025-02-25,C0121,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Distribuidor,2,310000,0.15,533324.0
+V00659,2025-12-13,C0074,P003,Teclado Mecánico,Accesorios,CABA,Distribuidor,1,85000,0.0,96220.0
+V00660,2025-05-11,C0034,P007,Auriculares BT,Audio,GBA Norte,Mayorista,4,115000,0.15,409768.0
+V00661,2025-07-11,C0128,P004,Mouse Inalámbrico,Accesorios,GBA Norte,E-commerce,1,42000,0.1,40521.6
+V00662,2025-11-07,C0091,P003,Teclado Mecánico,Accesorios,CABA,Distribuidor,2,85000,0.05,180880.0
+V00663,2025-06-03,C0106,P007,Auriculares BT,Audio,GBA Oeste,Retail,5,115000,0.15,518075.0
+V00664,2025-08-28,C0002,P002,Monitor 27,Tecnología,Interior,Retail,2,280000,0.0,607040.0
+V00665,2025-09-07,C0076,P010,Parlante Portátil,Audio,Interior,E-commerce,4,78000,0.1,307756.8
+V00666,2025-05-06,C0004,P001,Notebook Pro 14,Tecnología,Interior,Retail,5,950000,0.0,4978000.0
+V00667,2025-11-04,C0169,P005,Silla Ergonómica,Mobiliario,CABA,E-commerce,2,310000,0.0,694400.0
+V00668,2025-12-23,C0033,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Retail,1,42000,0.15,40412.4
+V00669,2025-06-20,C0043,P004,Mouse Inalámbrico,Accesorios,Interior,E-commerce,2,42000,0.0,89040.0
+V00670,2025-09-19,C0012,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,2,67000,0.0,146864.0
+V00671,2025-06-26,C0101,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,5,390000,0.05,1963650.0
+V00672,2025-01-29,C0123,P003,Teclado Mecánico,Accesorios,Interior,Distribuidor,1,85000,0.0,85000.0
+V00673,2025-11-19,C0075,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,5,390000,0.15,1856400.0
+V00674,2025-08-12,C0175,P007,Auriculares BT,Audio,Interior,Distribuidor,1,115000,0.1,112194.0
+V00675,2025-12-24,C0134,P003,Teclado Mecánico,Accesorios,Interior,Retail,4,85000,0.0,384880.0
+V00676,2025-08-26,C0068,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,3,67000,0.1,196095.6
+V00677,2025-07-02,C0013,P001,Notebook Pro 14,Tecnología,GBA Sur,E-commerce,3,950000,0.0,3055200.0
+V00678,2025-12-11,C0016,P002,Monitor 27,Tecnología,GBA Sur,E-commerce,5,280000,0.0,1584800.0
+V00679,2025-04-11,C0110,P010,Parlante Portátil,Audio,Interior,Distribuidor,1,78000,0.0,80808.0
+V00680,2025-08-30,C0094,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Mayorista,1,42000,0.0,45528.0
+V00681,2025-02-04,C0031,P009,Tablet 10,Tecnología,GBA Oeste,E-commerce,1,390000,0.05,374946.0
+V00682,2025-11-26,C0102,P003,Teclado Mecánico,Accesorios,Interior,E-commerce,2,85000,0.05,180880.0
+V00683,2025-02-13,C0022,P004,Mouse Inalámbrico,Accesorios,CABA,Mayorista,5,42000,0.05,201894.0
+V00684,2025-08-24,C0141,P004,Mouse Inalámbrico,Accesorios,Interior,E-commerce,5,42000,0.0,227640.0
+V00685,2025-03-08,C0138,P010,Parlante Portátil,Audio,GBA Sur,Retail,2,78000,0.15,135782.4
+V00686,2025-08-30,C0110,P008,Webcam HD,Accesorios,GBA Sur,Retail,3,67000,0.0,217884.0
+V00687,2025-08-22,C0015,P010,Parlante Portátil,Audio,GBA Norte,E-commerce,1,78000,0.15,71869.2
+V00688,2025-02-11,C0115,P004,Mouse Inalámbrico,Accesorios,CABA,Distribuidor,5,42000,0.0,212520.0
+V00689,2025-08-03,C0095,P009,Tablet 10,Tecnología,CABA,Mayorista,3,390000,0.1,1141452.0
+V00690,2025-07-16,C0157,P001,Notebook Pro 14,Tecnología,Interior,E-commerce,3,950000,0.15,2596920.0
+V00691,2025-05-12,C0013,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Mayorista,5,42000,0.0,220080.0
+V00692,2025-08-07,C0141,P008,Webcam HD,Accesorios,Interior,Retail,2,67000,0.0,145256.0
+V00693,2025-04-06,C0136,P009,Tablet 10,Tecnología,GBA Sur,Distribuidor,4,390000,0.1,1454544.0
+V00694,2025-04-10,C0053,P007,Auriculares BT,Audio,GBA Sur,E-commerce,2,115000,0.05,226366.0
+V00695,2025-06-08,C0029,P001,Notebook Pro 14,Tecnología,GBA Sur,Mayorista,4,950000,0.0,4028000.0
+V00696,2025-06-03,C0161,P003,Teclado Mecánico,Accesorios,GBA Oeste,Mayorista,1,85000,0.1,81090.0
+V00697,2025-02-15,C0103,P009,Tablet 10,Tecnología,CABA,Mayorista,2,390000,0.0,789360.0
+V00698,2025-09-30,C0100,P009,Tablet 10,Tecnología,GBA Sur,Mayorista,4,390000,0.15,1453296.0
+V00699,2025-01-04,C0112,P004,Mouse Inalámbrico,Accesorios,Interior,Mayorista,5,42000,0.05,199500.0
+V00700,2025-07-27,C0074,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,1,310000,0.1,299088.0
+V00701,2025-06-25,C0109,P004,Mouse Inalámbrico,Accesorios,Interior,E-commerce,3,42000,0.05,126882.0
+V00702,2025-02-02,C0004,P007,Auriculares BT,Audio,GBA Oeste,Distribuidor,2,115000,0.0,232760.0
+V00703,2025-07-28,C0016,P009,Tablet 10,Tecnología,GBA Oeste,Retail,2,390000,0.0,836160.0
+V00704,2025-11-11,C0037,P006,Escritorio Compacto,Mobiliario,CABA,Distribuidor,2,220000,0.1,443520.0
+V00705,2025-09-17,C0060,P005,Silla Ergonómica,Mobiliario,GBA Norte,Distribuidor,4,310000,0.1,1223136.0
+V00706,2025-04-26,C0098,P008,Webcam HD,Accesorios,GBA Oeste,Mayorista,2,67000,0.0,138824.0
+V00707,2025-03-29,C0088,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,3,67000,0.05,195532.8
+V00708,2025-06-10,C0144,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,5,115000,0.0,609500.0
+V00709,2025-10-20,C0160,P004,Mouse Inalámbrico,Accesorios,CABA,Retail,2,42000,0.05,88418.4
+V00710,2025-03-07,C0163,P007,Auriculares BT,Audio,GBA Sur,Mayorista,3,115000,0.0,353280.0
+V00711,2025-08-17,C0076,P006,Escritorio Compacto,Mobiliario,Interior,Mayorista,3,220000,0.15,608124.0
+V00712,2025-11-18,C0153,P001,Notebook Pro 14,Tecnología,CABA,Retail,2,950000,0.0,2128000.0
+V00713,2025-07-04,C0129,P010,Parlante Portátil,Audio,GBA Oeste,Retail,3,78000,0.1,225763.2
+V00714,2025-11-10,C0057,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Distribuidor,4,42000,0.05,178752.0
+V00715,2025-06-08,C0153,P002,Monitor 27,Tecnología,Interior,Distribuidor,5,280000,0.05,1409800.0
+V00716,2025-11-21,C0016,P002,Monitor 27,Tecnología,Interior,Distribuidor,2,280000,0.1,564480.0
+V00717,2025-07-09,C0106,P001,Notebook Pro 14,Tecnología,GBA Oeste,Mayorista,1,950000,0.1,916560.0
+V00718,2025-11-10,C0179,P007,Auriculares BT,Audio,GBA Norte,E-commerce,4,115000,0.1,463680.0
+V00719,2025-06-15,C0144,P002,Monitor 27,Tecnología,GBA Sur,Retail,2,280000,0.1,534240.0
+V00720,2025-12-08,C0057,P008,Webcam HD,Accesorios,Interior,E-commerce,1,67000,0.05,72051.8
+V00721,2025-12-09,C0098,P010,Parlante Portátil,Audio,CABA,Mayorista,3,78000,0.1,238399.2
+V00722,2025-04-01,C0070,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,2,67000,0.1,124941.6
+V00723,2025-10-10,C0130,P005,Silla Ergonómica,Mobiliario,GBA Norte,Distribuidor,1,310000,0.05,326306.0
+V00724,2025-02-26,C0042,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Retail,1,42000,0.0,42504.0
+V00725,2025-01-04,C0043,P002,Monitor 27,Tecnología,CABA,E-commerce,2,280000,0.0,560000.0
+V00726,2025-04-02,C0101,P006,Escritorio Compacto,Mobiliario,Interior,E-commerce,2,220000,0.15,387464.0
+V00727,2025-05-30,C0149,P004,Mouse Inalámbrico,Accesorios,GBA Norte,E-commerce,5,42000,0.05,209076.0
+V00728,2025-05-26,C0098,P001,Notebook Pro 14,Tecnología,GBA Sur,Distribuidor,4,950000,0.0,3982400.0
+V00729,2025-12-26,C0101,P003,Teclado Mecánico,Accesorios,GBA Oeste,Retail,2,85000,0.0,192440.0
+V00730,2025-04-15,C0070,P003,Teclado Mecánico,Accesorios,CABA,E-commerce,5,85000,0.1,396270.0
+V00731,2025-12-15,C0034,P003,Teclado Mecánico,Accesorios,GBA Norte,Retail,1,85000,0.0,96220.0
+V00732,2025-01-23,C0127,P009,Tablet 10,Tecnología,GBA Sur,E-commerce,4,390000,0.1,1404000.0
+V00733,2025-09-07,C0016,P009,Tablet 10,Tecnología,CABA,Retail,2,390000,0.0,854880.0
+V00734,2025-03-31,C0101,P003,Teclado Mecánico,Accesorios,GBA Norte,Mayorista,4,85000,0.05,330752.0
+V00735,2025-02-15,C0127,P010,Parlante Portátil,Audio,GBA Oeste,Mayorista,5,78000,0.0,394680.0
+V00736,2025-10-07,C0121,P009,Tablet 10,Tecnología,CABA,E-commerce,5,390000,0.0,2160600.0
+V00737,2025-05-21,C0166,P005,Silla Ergonómica,Mobiliario,GBA Sur,E-commerce,5,310000,0.05,1543180.0
+V00738,2025-03-11,C0117,P005,Silla Ergonómica,Mobiliario,CABA,Mayorista,4,310000,0.0,1269760.0
+V00739,2025-10-02,C0024,P005,Silla Ergonómica,Mobiliario,GBA Sur,Distribuidor,5,310000,0.15,1459790.0
+V00740,2025-03-14,C0161,P008,Webcam HD,Accesorios,Interior,E-commerce,1,67000,0.0,68608.0
+V00741,2025-07-24,C0024,P001,Notebook Pro 14,Tecnología,GBA Norte,Distribuidor,2,950000,0.05,1934960.0
+V00742,2025-04-10,C0124,P001,Notebook Pro 14,Tecnología,GBA Norte,E-commerce,3,950000,0.0,2952600.0
+V00743,2025-08-07,C0014,P002,Monitor 27,Tecnología,GBA Oeste,E-commerce,5,280000,0.0,1517600.0
+V00744,2025-03-03,C0169,P010,Parlante Portátil,Audio,Interior,Retail,5,78000,0.0,399360.0
+V00745,2025-10-30,C0018,P006,Escritorio Compacto,Mobiliario,Interior,E-commerce,2,220000,0.0,487520.0
+V00746,2025-11-04,C0172,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,4,390000,0.1,1572480.0
+V00747,2025-10-30,C0135,P008,Webcam HD,Accesorios,Interior,Distribuidor,3,67000,0.05,211572.6
+V00748,2025-12-20,C0115,P010,Parlante Portátil,Audio,GBA Oeste,Distribuidor,4,78000,0.0,353184.0
+V00749,2025-08-22,C0130,P002,Monitor 27,Tecnología,GBA Norte,Mayorista,2,280000,0.0,607040.0
+V00750,2025-10-25,C0048,P009,Tablet 10,Tecnología,CABA,Mayorista,2,390000,0.0,864240.0
+V00751,2025-08-18,C0109,P005,Silla Ergonómica,Mobiliario,GBA Sur,Mayorista,3,310000,0.0,1008120.0
+V00752,2025-02-10,C0159,P002,Monitor 27,Tecnología,GBA Norte,Mayorista,5,280000,0.05,1345960.0
+V00753,2025-06-09,C0046,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,5,280000,0.1,1335600.0
+V00754,2025-03-20,C0035,P002,Monitor 27,Tecnología,CABA,Mayorista,3,280000,0.05,817152.0
+V00755,2025-07-31,C0139,P007,Auriculares BT,Audio,GBA Sur,Retail,4,115000,0.0,493120.0
+V00756,2025-04-02,C0162,P009,Tablet 10,Tecnología,GBA Norte,Mayorista,2,390000,0.1,727272.0
+V00757,2025-08-06,C0103,P003,Teclado Mecánico,Accesorios,Interior,E-commerce,5,85000,0.15,391595.0
+V00758,2025-05-18,C0006,P003,Teclado Mecánico,Accesorios,Interior,Distribuidor,2,85000,0.15,151436.0
+V00759,2025-10-11,C0155,P005,Silla Ergonómica,Mobiliario,CABA,Distribuidor,3,310000,0.1,927396.0
+V00760,2025-04-01,C0125,P003,Teclado Mecánico,Accesorios,Interior,E-commerce,4,85000,0.15,299404.0
+V00761,2025-09-01,C0089,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,2,220000,0.0,482240.0
+V00762,2025-06-17,C0175,P009,Tablet 10,Tecnología,CABA,Mayorista,4,390000,0.05,1570920.0
+V00763,2025-08-03,C0059,P005,Silla Ergonómica,Mobiliario,GBA Norte,E-commerce,5,310000,0.05,1596190.0
+V00764,2025-11-06,C0019,P007,Auriculares BT,Audio,GBA Sur,Retail,2,115000,0.05,244720.0
+V00765,2025-03-20,C0029,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Retail,5,42000,0.0,215040.0
+V00766,2025-02-01,C0059,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,4,67000,0.0,271216.0
+V00767,2025-10-09,C0012,P003,Teclado Mecánico,Accesorios,GBA Sur,Distribuidor,1,85000,0.05,89471.0
+V00768,2025-09-13,C0031,P003,Teclado Mecánico,Accesorios,GBA Sur,Retail,1,85000,0.0,93160.0
+V00769,2025-05-15,C0063,P005,Silla Ergonómica,Mobiliario,GBA Norte,E-commerce,5,310000,0.0,1624400.0
+V00770,2025-07-01,C0166,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Retail,3,42000,0.1,121564.8
+V00771,2025-11-27,C0095,P003,Teclado Mecánico,Accesorios,Interior,E-commerce,4,85000,0.0,380800.0
+V00772,2025-08-08,C0037,P004,Mouse Inalámbrico,Accesorios,CABA,Retail,1,42000,0.0,45528.0
+V00773,2025-12-26,C0038,P008,Webcam HD,Accesorios,CABA,Mayorista,1,67000,0.0,75844.0
+V00774,2025-08-01,C0070,P006,Escritorio Compacto,Mobiliario,GBA Sur,Retail,5,220000,0.0,1192400.0
+V00775,2025-05-15,C0120,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Mayorista,1,42000,0.15,37413.6
+V00776,2025-09-12,C0031,P009,Tablet 10,Tecnología,Interior,Distribuidor,2,390000,0.1,769392.0
+V00777,2025-12-31,C0083,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Retail,4,220000,0.05,946352.0
+V00778,2025-09-19,C0131,P010,Parlante Portátil,Audio,GBA Sur,Retail,5,78000,0.0,427440.0
+V00779,2025-11-12,C0047,P009,Tablet 10,Tecnología,GBA Sur,Distribuidor,5,390000,0.05,2074800.0
+V00780,2025-08-15,C0064,P001,Notebook Pro 14,Tecnología,GBA Norte,Distribuidor,1,950000,0.1,926820.0
+V00781,2025-03-30,C0173,P007,Auriculares BT,Audio,CABA,E-commerce,1,115000,0.1,105984.0
+V00782,2025-08-30,C0070,P006,Escritorio Compacto,Mobiliario,GBA Norte,Distribuidor,5,220000,0.0,1192400.0
+V00783,2025-07-10,C0171,P003,Teclado Mecánico,Accesorios,Interior,Distribuidor,5,85000,0.0,455600.0
+V00784,2025-06-16,C0088,P005,Silla Ergonómica,Mobiliario,GBA Norte,Retail,5,310000,0.05,1560850.0
+V00785,2025-08-16,C0163,P001,Notebook Pro 14,Tecnología,Interior,Mayorista,3,950000,0.15,2625990.0
+V00786,2025-01-21,C0176,P010,Parlante Portátil,Audio,Interior,Retail,5,78000,0.0,390000.0
+V00787,2025-11-04,C0069,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,4,42000,0.1,169344.0
+V00788,2025-07-01,C0030,P009,Tablet 10,Tecnología,GBA Sur,Distribuidor,4,390000,0.1,1505088.0
+V00789,2025-10-31,C0087,P006,Escritorio Compacto,Mobiliario,Interior,E-commerce,4,220000,0.0,975040.0
+V00790,2025-07-03,C0038,P008,Webcam HD,Accesorios,GBA Norte,E-commerce,4,67000,0.1,258566.4
+V00791,2025-11-16,C0095,P009,Tablet 10,Tecnología,Interior,Retail,4,390000,0.1,1572480.0
+V00792,2025-12-13,C0087,P002,Monitor 27,Tecnología,Interior,Retail,5,280000,0.0,1584800.0
+V00793,2025-06-16,C0151,P010,Parlante Portátil,Audio,CABA,E-commerce,3,78000,0.05,235638.0
+V00794,2025-06-21,C0142,P002,Monitor 27,Tecnología,CABA,E-commerce,3,280000,0.1,801360.0
+V00795,2025-02-07,C0178,P003,Teclado Mecánico,Accesorios,GBA Sur,Distribuidor,2,85000,0.1,154836.0
+V00796,2025-01-24,C0145,P007,Auriculares BT,Audio,GBA Norte,Retail,4,115000,0.1,414000.0
+V00797,2025-12-14,C0056,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,5,67000,0.0,379220.0
+V00798,2025-08-16,C0088,P004,Mouse Inalámbrico,Accesorios,CABA,E-commerce,3,42000,0.0,136584.0
+V00799,2025-09-23,C0086,P009,Tablet 10,Tecnología,CABA,Retail,4,390000,0.15,1453296.0
+V00800,2025-08-31,C0079,P010,Parlante Portátil,Audio,GBA Norte,Distribuidor,1,78000,0.0,84552.0
+V00801,2025-05-26,C0176,P002,Monitor 27,Tecnología,Interior,Mayorista,5,280000,0.05,1393840.0
+V00802,2025-12-20,C0035,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Mayorista,4,310000,0.0,1403680.0
+V00803,2025-04-12,C0009,P002,Monitor 27,Tecnología,GBA Norte,Retail,3,280000,0.0,870240.0
+V00804,2025-12-09,C0089,P007,Auriculares BT,Audio,CABA,E-commerce,3,115000,0.0,390540.0
+V00805,2025-08-05,C0174,P008,Webcam HD,Accesorios,CABA,Distribuidor,3,67000,0.05,206989.8
+V00806,2025-07-01,C0037,P002,Monitor 27,Tecnología,GBA Oeste,Mayorista,5,280000,0.1,1350720.0
+V00807,2025-03-13,C0021,P005,Silla Ergonómica,Mobiliario,Interior,Mayorista,3,310000,0.0,952320.0
+V00808,2025-04-10,C0129,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,4,42000,0.05,165345.6
+V00809,2025-08-27,C0048,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,2,280000,0.05,576688.0
+V00810,2025-01-27,C0127,P002,Monitor 27,Tecnología,GBA Oeste,Mayorista,4,280000,0.0,1120000.0
+V00811,2025-11-01,C0043,P004,Mouse Inalámbrico,Accesorios,CABA,E-commerce,4,42000,0.0,188160.0
+V00812,2025-10-06,C0151,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,1,220000,0.05,231572.0
+V00813,2025-10-29,C0164,P002,Monitor 27,Tecnología,GBA Oeste,Distribuidor,4,280000,0.1,1116864.0
+V00814,2025-02-06,C0012,P006,Escritorio Compacto,Mobiliario,CABA,Distribuidor,4,220000,0.0,890560.0
+V00815,2025-06-20,C0074,P006,Escritorio Compacto,Mobiliario,GBA Oeste,E-commerce,5,220000,0.15,991100.0
+V00816,2025-06-06,C0113,P009,Tablet 10,Tecnología,CABA,Distribuidor,1,390000,0.1,372060.0
+V00817,2025-12-04,C0050,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Mayorista,3,310000,0.05,1000122.0
+V00818,2025-10-18,C0167,P003,Teclado Mecánico,Accesorios,Interior,Retail,5,85000,0.05,447355.0
+V00819,2025-06-12,C0007,P010,Parlante Portátil,Audio,CABA,Retail,5,78000,0.05,392730.0
+V00820,2025-12-16,C0040,P010,Parlante Portátil,Audio,CABA,E-commerce,5,78000,0.0,441480.0
+V00821,2025-10-05,C0176,P003,Teclado Mecánico,Accesorios,GBA Norte,Mayorista,1,85000,0.15,80053.0
+V00822,2025-08-20,,P003,Teclado Mecánico,Accesorios,CABA,Mayorista,5,85000,0.1,414630.0
+V00823,2025-01-18,C0136,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Mayorista,3,220000,0.05,627000.0
+V00824,2025-03-07,C0008,P001,Notebook Pro 14,Tecnología,GBA Sur,Mayorista,4,950000,0.0,3891200.0
+V00825,2025-06-13,C0143,P002,Monitor 27,Tecnología,GBA Norte,Mayorista,5,280000,0.1,1335600.0
+V00826,2025-03-17,C0024,P005,Silla Ergonómica,Mobiliario,Interior,Retail,4,310000,0.05,1206272.0
+V00827,2025-11-05,C0143,P001,Notebook Pro 14,Tecnología,GBA Sur,Distribuidor,5,950000,0.0,5320000.0
+V00828,2025-05-03,C0079,P001,Notebook Pro 14,Tecnología,Interior,Mayorista,4,950000,0.0,3982400.0
+V00829,2025-02-11,C0123,P005,Silla Ergonómica,Mobiliario,CABA,Distribuidor,3,310000,0.05,894102.0
+V00830,2025-08-13,C0089,P001,Notebook Pro 14,Tecnología,GBA Norte,Distribuidor,5,950000,0.1,4634100.0
+V00831,2025-03-16,C0004,P002,Monitor 27,Tecnología,GBA Norte,Mayorista,2,280000,0.05,544768.0
+V00832,2025-06-25,C0035,P007,Auriculares BT,Audio,CABA,Mayorista,4,115000,0.05,463220.0
+V00833,2025-08-16,C0167,P003,Teclado Mecánico,Accesorios,CABA,E-commerce,1,85000,0.0,92140.0
+V00834,2025-01-29,C0179,P001,Notebook Pro 14,Tecnología,GBA Norte,Retail,1,950000,0.0,950000.0
+V00835,2025-06-02,C0065,P005,Silla Ergonómica,Mobiliario,Interior,Retail,2,310000,0.05,624340.0
+V00836,2025-11-15,C0036,P002,Monitor 27,Tecnología,GBA Norte,E-commerce,1,280000,0.0,313600.0
+V00837,2025-11-06,C0019,P002,Monitor 27,Tecnología,GBA Sur,E-commerce,1,280000,0.05,297920.0
+V00838,2025-07-09,C0161,P009,Tablet 10,Tecnología,Interior,Retail,1,390000,0.05,397176.0
+V00839,2025-03-09,C0030,P005,Silla Ergonómica,Mobiliario,GBA Norte,Mayorista,4,310000,0.1,1142784.0
+V00840,2025-05-31,C0108,P010,Parlante Portátil,Audio,GBA Oeste,Distribuidor,1,78000,0.05,77656.8
+V00841,2025-06-08,C0096,P001,Notebook Pro 14,Tecnología,GBA Norte,E-commerce,4,950000,0.05,3826600.0
+V00842,2025-07-27,C0046,P006,Escritorio Compacto,Mobiliario,GBA Norte,Mayorista,2,220000,0.0,471680.0
+V00843,2025-03-15,C0096,P005,Silla Ergonómica,Mobiliario,Interior,Mayorista,5,310000,0.0,1587200.0
+V00844,2025-01-06,C0178,P010,Parlante Portátil,Audio,CABA,E-commerce,3,78000,0.05,222300.0
+V00845,2025-12-27,C0065,P002,Monitor 27,Tecnología,GBA Sur,E-commerce,5,280000,0.0,1584800.0
+V00846,2025-06-24,C0032,P010,Parlante Portátil,Audio,GBA Oeste,Mayorista,1,78000,0.1,74412.0
+V00847,2025-03-25,C0100,P003,Teclado Mecánico,Accesorios,GBA Oeste,Retail,1,85000,0.0,87040.0
+V00848,2025-03-18,C0114,P010,Parlante Portátil,Audio,GBA Norte,Distribuidor,2,78000,0.15,135782.4
+V00849,2025-03-25,C0175,P003,Teclado Mecánico,Accesorios,CABA,E-commerce,3,85000,0.05,248064.0
+V00850,2025-10-19,C0087,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,2,115000,0.0,254840.0
+V00851,2025-06-30,C0140,P008,Webcam HD,Accesorios,GBA Sur,E-commerce,1,67000,0.0,71020.0
+V00852,2025-02-13,C0027,P001,Notebook Pro 14,Tecnología,GBA Oeste,Mayorista,1,950000,0.0,961400.0
+V00853,2025-10-14,C0124,P007,Auriculares BT,Audio,Interior,Distribuidor,4,115000,0.1,458712.0
+V00854,2025-02-20,C0138,P009,Tablet 10,Tecnología,GBA Sur,Mayorista,4,390000,0.1,1420848.0
+V00855,2025-03-04,C0149,P001,Notebook Pro 14,Tecnología,,Mayorista,3,950000,0.15,2480640.0
+V00856,2025-01-30,C0044,P002,Monitor 27,Tecnología,Interior,Retail,3,280000,0.05,798000.0
+V00857,2025-07-02,C0179,P008,Webcam HD,Accesorios,GBA Oeste,Distribuidor,3,67000,0.0,215472.0
+V00858,2025-01-14,C0163,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Mayorista,4,42000,0.15,142800.0
+V00859,2025-12-29,C0081,P009,Tablet 10,Tecnología,Interior,Mayorista,3,390000,0.05,1258218.0
+V00860,2025-07-16,C0083,P001,Notebook Pro 14,Tecnología,GBA Oeste,Retail,1,950000,0.0,1018400.0
+V00861,2025-08-23,C0055,P007,Auriculares BT,Audio,Interior,Mayorista,5,115000,0.0,623300.0
+V00862,2025-07-13,C0168,P009,Tablet 10,Tecnología,Interior,Distribuidor,3,390000,0.0,1254240.0
+V00863,2025-04-12,C0130,P009,Tablet 10,Tecnología,Interior,Distribuidor,4,390000,0.15,1373736.0
+V00864,2025-01-08,C0056,P006,Escritorio Compacto,Mobiliario,GBA Sur,Retail,2,220000,0.0,440000.0
+V00865,2025-03-22,C0066,P009,Tablet 10,Tecnología,Interior,E-commerce,2,390000,0.15,678912.0
+V00866,2025-02-25,C0033,P009,Tablet 10,Tecnología,GBA Sur,Distribuidor,4,390000,0.1,1420848.0
+V00867,2025-05-28,C0143,P003,Teclado Mecánico,Accesorios,CABA,Distribuidor,1,85000,0.1,80172.0
+V00868,2025-05-19,C0134,P006,Escritorio Compacto,Mobiliario,CABA,Retail,1,220000,0.0,230560.0
+V00869,2025-04-29,C0169,P002,Monitor 27,Tecnología,CABA,Mayorista,4,280000,0.05,1102304.0
+V00870,2025-12-10,C0052,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,5,42000,0.0,237720.0
+V00871,2025-02-22,C0058,P003,Teclado Mecánico,Accesorios,Interior,E-commerce,3,85000,0.0,258060.0
+V00872,2025-03-24,C0104,P004,Mouse Inalámbrico,Accesorios,CABA,E-commerce,3,42000,0.0,129024.0
+V00873,2025-08-17,C0179,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,5,78000,0.1,380484.0
+V00874,2025-03-07,C0126,P009,Tablet 10,Tecnología,CABA,Retail,2,390000,0.0,798720.0
+V00875,2025-04-28,C0148,P007,Auriculares BT,Audio,Interior,Retail,1,115000,0.0,119140.0
+V00876,2025-11-30,C0172,P006,Escritorio Compacto,Mobiliario,GBA Norte,Mayorista,2,220000,0.1,443520.0
+V00877,2025-08-17,C0085,P009,Tablet 10,Tecnología,Interior,E-commerce,1,390000,0.0,422760.0
+V00878,2025-05-20,C0025,P003,Teclado Mecánico,Accesorios,Interior,E-commerce,3,85000,0.0,267240.0
+V00879,2025-02-20,,P009,Tablet 10,Tecnología,GBA Sur,Distribuidor,5,390000,0.05,1874730.0
+V00880,2025-11-22,C0082,P006,Escritorio Compacto,Mobiliario,GBA Sur,Distribuidor,1,220000,0.15,209440.0
+V00881,2025-11-15,C0142,P009,Tablet 10,Tecnología,GBA Norte,Mayorista,5,390000,0.0,2184000.0
+V00882,2025-12-03,C0128,P001,Notebook Pro 14,Tecnología,GBA Sur,Mayorista,2,950000,0.0,2150800.0
+V00883,2025-04-11,C0043,P008,Webcam HD,Accesorios,GBA Oeste,Mayorista,5,67000,0.05,329707.0
+V00884,2025-08-19,C0145,P007,Auriculares BT,Audio,Interior,E-commerce,3,115000,0.05,355281.0
+V00885,2025-06-07,C0145,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Mayorista,1,220000,0.0,233200.0
+V00886,2025-03-21,C0038,P007,Auriculares BT,Audio,CABA,Mayorista,5,115000,0.0,588800.0
+V00887,2025-02-14,C0165,P003,Teclado Mecánico,Accesorios,GBA Sur,Mayorista,5,85000,0.05,408595.0
+V00888,2025-12-16,C0076,P001,Notebook Pro 14,Tecnología,GBA Oeste,E-commerce,2,950000,0.05,2043260.0
+V00889,2025-10-04,C0041,P007,Auriculares BT,Audio,CABA,Retail,1,115000,0.05,121049.0
+V00890,2025-03-18,C0162,P008,Webcam HD,Accesorios,,Mayorista,4,67000,0.0,274432.0
+V00891,2025-05-31,C0053,P006,Escritorio Compacto,Mobiliario,GBA Sur,Mayorista,1,220000,0.0,230560.0
+V00892,2025-03-16,C0163,P007,Auriculares BT,Audio,CABA,Mayorista,3,115000,0.0,353280.0
+V00893,2025-08-22,C0111,P008,Webcam HD,Accesorios,GBA Oeste,Retail,5,67000,0.05,344983.0
+V00894,2025-05-26,C0025,P007,Auriculares BT,Audio,GBA Norte,E-commerce,4,115000,0.05,457976.0
+V00895,2025-09-30,C0113,P005,Silla Ergonómica,Mobiliario,GBA Norte,Distribuidor,1,310000,0.1,305784.0
+V00896,2025-04-04,C0024,P005,Silla Ergonómica,Mobiliario,GBA Norte,Distribuidor,1,310000,0.0,321160.0
+V00897,2025-09-14,C0034,P010,Parlante Portátil,Audio,GBA Oeste,Mayorista,2,78000,0.0,170976.0
+V00898,2025-07-04,C0038,P003,Teclado Mecánico,Accesorios,GBA Sur,E-commerce,5,85000,0.05,432820.0
+V00899,2025-07-21,C0081,P005,Silla Ergonómica,Mobiliario,GBA Sur,Retail,4,310000,0.0,1329280.0
+V00900,2025-04-01,C0052,P001,Notebook Pro 14,Tecnología,GBA Oeste,E-commerce,5,950000,0.1,4428900.0
+V00901,2025-08-02,C0157,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,3,42000,0.1,122925.6
+V00902,2025-10-30,C0123,P008,Webcam HD,Accesorios,CABA,E-commerce,2,67000,0.0,148472.0
+V00903,2025-02-14,C0047,P008,Webcam HD,Accesorios,GBA Oeste,Distribuidor,1,67000,0.05,64413.8
+V00904,2025-04-06,C0141,P008,Webcam HD,Accesorios,CABA,Distribuidor,4,67000,0.0,277648.0
+V00905,2025-09-06,C0051,P009,Tablet 10,Tecnología,CABA,Distribuidor,4,390000,0.05,1624272.0
+V00906,2025-11-15,C0162,P007,Auriculares BT,Audio,GBA Oeste,Retail,4,115000,0.0,515200.0
+V00907,2025-03-04,C0020,P006,Escritorio Compacto,Mobiliario,GBA Norte,Mayorista,4,220000,0.1,811008.0
+V00908,2025-07-06,C0112,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,5,390000,0.0,2090400.0
+V00909,2025-04-07,C0067,P008,Webcam HD,Accesorios,GBA Norte,Distribuidor,3,67000,0.05,197824.2
+V00910,2025-01-31,C0055,P010,Parlante Portátil,Audio,GBA Norte,Mayorista,4,78000,0.05,296400.0
+V00911,2025-10-19,C0068,P006,Escritorio Compacto,Mobiliario,GBA Norte,Mayorista,2,220000,0.1,438768.0
+V00912,2025-02-21,C0125,P001,Notebook Pro 14,Tecnología,Interior,E-commerce,4,950000,0.0,3845600.0
+V00913,2025-12-31,C0086,P007,Auriculares BT,Audio,Interior,Distribuidor,5,115000,0.0,650900.0
+V00914,2025-05-14,C0002,P002,Monitor 27,Tecnología,Interior,Retail,4,280000,0.15,997696.0
+V00915,2025-05-09,C0077,P008,Webcam HD,Accesorios,GBA Sur,Distribuidor,5,67000,0.1,315972.0
+V00916,2025-04-19,C0169,P001,Notebook Pro 14,Tecnología,Interior,Mayorista,3,950000,0.1,2657340.0
+V00917,2025-08-16,C0133,P003,Teclado Mecánico,Accesorios,GBA Norte,E-commerce,1,85000,0.0,92140.0
+V00918,2025-07-08,C0080,P004,Mouse Inalámbrico,Accesorios,CABA,Mayorista,5,42000,0.1,202608.0
+V00919,2025-10-10,C0133,P008,Webcam HD,Accesorios,CABA,Distribuidor,3,67000,0.1,200437.2
+V00920,2025-12-04,C0052,P010,Parlante Portátil,Audio,GBA Norte,E-commerce,4,78000,0.05,335524.8
+V00921,2025-04-15,C0150,P007,Auriculares BT,Audio,GBA Sur,Retail,5,115000,0.0,595700.0
+V00922,2025-11-19,C0059,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,4,310000,0.0,1388800.0
+V00923,2025-05-03,C0046,P003,Teclado Mecánico,Accesorios,CABA,Distribuidor,2,85000,0.0,178160.0
+V00924,2025-12-26,C0093,P008,Webcam HD,Accesorios,CABA,Mayorista,4,67000,0.05,288207.2
+V00925,2025-04-04,C0124,P002,Monitor 27,Tecnología,GBA Sur,Distribuidor,4,280000,0.15,986272.0
+V00926,2025-05-06,C0033,P003,Teclado Mecánico,Accesorios,CABA,Mayorista,2,85000,0.0,178160.0
+V00927,2025-05-22,C0109,P006,Escritorio Compacto,Mobiliario,GBA Norte,Mayorista,4,220000,0.0,922240.0
+V00928,2025-06-24,C0004,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Retail,1,42000,0.1,40068.0
+V00929,2025-12-09,C0008,P003,Teclado Mecánico,Accesorios,CABA,Retail,5,85000,0.0,481100.0
+V00930,2025-04-22,C0036,P009,Tablet 10,Tecnología,Interior,Distribuidor,1,390000,0.05,383838.0
+V00931,2025-10-16,C0059,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,4,67000,0.1,267249.6
+V00932,2025-10-21,C0122,P009,Tablet 10,Tecnología,GBA Oeste,Distribuidor,1,390000,0.0,432120.0
+V00933,2025-05-29,C0145,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Mayorista,5,42000,0.0,220080.0
+V00934,2025-10-07,C0175,P009,Tablet 10,Tecnología,GBA Norte,Mayorista,3,390000,0.05,1231542.0
+V00935,2025-12-27,C0111,P003,Teclado Mecánico,Accesorios,CABA,Retail,2,85000,0.05,182818.0
+V00936,2025-12-10,C0124,P009,Tablet 10,Tecnología,GBA Oeste,E-commerce,1,390000,0.15,375258.0
+V00937,2025-05-03,C0132,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Retail,4,220000,0.05,876128.0
+V00938,2025-11-10,C0174,P003,Teclado Mecánico,Accesorios,GBA Sur,Retail,3,85000,0.1,257040.0
+V00939,2025-05-31,C0087,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,5,115000,0.05,572470.0
+V00940,2025-06-20,C0167,P009,Tablet 10,Tecnología,Interior,E-commerce,4,390000,0.05,1570920.0
+V00941,2025-07-24,C0044,P001,Notebook Pro 14,Tecnología,CABA,Retail,4,950000,0.1,3666240.0
+V00942,2025-11-21,C0046,P007,Auriculares BT,Audio,GBA Oeste,E-commerce,5,115000,0.0,644000.0
+V00943,2025-05-11,C0177,P007,Auriculares BT,Audio,GBA Oeste,Retail,1,115000,0.0,120520.0
+V00944,2025-02-13,C0121,P001,Notebook Pro 14,Tecnología,GBA Sur,Retail,4,950000,0.1,3461040.0
+V00945,2025-11-20,C0031,P001,Notebook Pro 14,Tecnología,Interior,Distribuidor,3,950000,0.0,3192000.0
+V00946,2025-11-24,C0007,P008,Webcam HD,Accesorios,GBA Norte,Distribuidor,5,67000,0.0,375200.0
+V00947,2025-03-12,C0008,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,1,280000,0.0,286720.0
+V00948,2025-06-21,C0046,P005,Silla Ergonómica,Mobiliario,GBA Sur,Mayorista,2,310000,0.15,558620.0
+V00949,2025-06-08,C0113,P003,Teclado Mecánico,Accesorios,GBA Oeste,E-commerce,1,85000,0.0,90100.0
+V00950,2025-01-13,C0154,P006,Escritorio Compacto,Mobiliario,CABA,Distribuidor,4,220000,0.15,748000.0
+V00951,2025-07-26,C0089,P005,Silla Ergonómica,Mobiliario,CABA,Mayorista,4,310000,0.1,1196352.0
+V00952,2025-02-18,C0048,P004,Mouse Inalámbrico,Accesorios,Interior,Retail,3,42000,0.05,121136.4
+V00953,2025-12-29,C0015,P009,Tablet 10,Tecnología,GBA Oeste,Distribuidor,1,390000,0.0,441480.0
+V00954,2025-07-04,C0007,P005,Silla Ergonómica,Mobiliario,Interior,Distribuidor,5,310000,0.15,1412360.0
+V00955,2025-01-07,C0134,P001,Notebook Pro 14,Tecnología,CABA,Distribuidor,5,950000,0.1,4275000.0
+V00956,2025-08-15,C0049,P003,Teclado Mecánico,Accesorios,GBA Oeste,Distribuidor,3,85000,0.0,276420.0
+V00957,2025-12-19,C0142,P006,Escritorio Compacto,Mobiliario,Interior,Mayorista,1,220000,0.0,249040.0
+V00958,2025-11-22,C0005,P003,Teclado Mecánico,Accesorios,CABA,E-commerce,5,85000,0.05,452200.0
+V00959,2025-02-25,C0093,P010,Parlante Portátil,Audio,Interior,Mayorista,1,78000,0.0,78936.0
+V00960,2025-04-04,C0084,P001,Notebook Pro 14,Tecnología,Interior,Distribuidor,4,950000,0.0,3936800.0
+V00961,2025-09-04,C0008,P005,Silla Ergonómica,Mobiliario,CABA,Mayorista,3,310000,0.15,866388.0
+V00962,2025-12-01,C0123,P008,Webcam HD,Accesorios,CABA,Retail,2,67000,0.1,136519.2
+V00963,2025-05-20,C0014,P001,Notebook Pro 14,Tecnología,GBA Norte,Retail,1,950000,0.0,995600.0
+V00964,2025-12-31,C0108,P009,Tablet 10,Tecnología,GBA Sur,E-commerce,3,390000,0.0,1324440.0
+V00965,2025-12-02,C0012,P009,Tablet 10,Tecnología,Interior,Retail,5,390000,0.15,1876290.0
+V00966,2025-04-23,C0179,P009,Tablet 10,Tecnología,GBA Oeste,Retail,4,390000,0.1,1454544.0
+V00967,2025-08-15,C0123,P009,Tablet 10,Tecnología,Interior,E-commerce,5,390000,0.0,2113800.0
+V00968,2025-09-02,C0085,P005,Silla Ergonómica,Mobiliario,Interior,Mayorista,3,310000,0.0,1019280.0
+V00969,2025-03-25,C0005,P004,Mouse Inalámbrico,Accesorios,Interior,Retail,3,42000,0.05,122572.8
+V00970,2025-07-28,C0161,P004,Mouse Inalámbrico,Accesorios,CABA,Distribuidor,1,42000,0.0,45024.0
+V00971,2025-11-13,C0110,P007,Auriculares BT,Audio,CABA,E-commerce,1,115000,0.0,128800.0
+V00972,2025-08-09,C0058,P002,Monitor 27,Tecnología,GBA Sur,E-commerce,4,280000,0.05,1153376.0
+V00973,2025-11-12,C0068,P001,Notebook Pro 14,Tecnología,Interior,Distribuidor,3,950000,0.0,3192000.0
+V00974,2025-04-23,C0085,P007,Auriculares BT,Audio,GBA Norte,Retail,4,115000,0.05,452732.0
+V00975,2025-05-07,C0118,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,E-commerce,4,42000,0.05,167260.8
+V00976,2025-10-15,C0117,P001,Notebook Pro 14,Tecnología,GBA Norte,Mayorista,5,950000,0.05,4999850.0
+V00977,2025-08-11,C0133,P009,Tablet 10,Tecnología,CABA,Distribuidor,5,390000,0.15,1796730.0
+V00978,2025-03-27,C0089,P005,Silla Ergonómica,Mobiliario,CABA,Distribuidor,4,310000,0.15,1079296.0
+V00979,2025-12-19,C0179,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,4,115000,0.1,468648.0
+V00980,2025-04-11,C0050,P007,Auriculares BT,Audio,GBA Oeste,Mayorista,2,115000,0.0,238280.0
+V00981,2025-03-07,C0056,P010,Parlante Portátil,Audio,Interior,Mayorista,1,78000,0.1,71884.8
+V00982,2025-07-04,C0125,P010,Parlante Portátil,Audio,CABA,Retail,2,78000,0.1,150508.8
+V00983,2025-08-09,C0022,P001,Notebook Pro 14,Tecnología,Interior,E-commerce,3,950000,0.0,3089400.0
+V00984,2025-02-27,C0017,P010,Parlante Portátil,Audio,CABA,E-commerce,1,78000,0.1,71042.4
+V00985,2025-12-26,C0010,P007,Auriculares BT,Audio,CABA,Mayorista,1,115000,0.0,130180.0
+V00986,2025-06-19,C0112,P003,Teclado Mecánico,Accesorios,GBA Sur,Mayorista,5,85000,0.0,450500.0
+V00987,2025-01-28,C0133,P002,Monitor 27,Tecnología,GBA Sur,Distribuidor,5,280000,0.05,1330000.0
+V00988,2025-05-23,C0108,P008,Webcam HD,Accesorios,GBA Norte,Retail,2,67000,0.0,140432.0
+V00989,2025-03-14,C0110,P001,Notebook Pro 14,Tecnología,GBA Norte,Retail,3,950000,0.1,2626560.0
+V00990,2025-01-12,C0099,P006,Escritorio Compacto,Mobiliario,GBA Norte,Retail,4,220000,0.0,880000.0
+V00991,2025-08-08,C0060,P007,Auriculares BT,Audio,CABA,E-commerce,1,115000,0.1,112194.0
+V00992,2025-01-07,C0006,P006,Escritorio Compacto,Mobiliario,GBA Norte,Retail,5,220000,0.0,1100000.0
+V00993,2025-08-13,C0051,P006,Escritorio Compacto,Mobiliario,GBA Sur,Distribuidor,4,220000,0.1,858528.0
+V00994,2025-06-05,C0098,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Retail,3,42000,0.0,133560.0
+V00995,2025-06-26,C0166,P003,Teclado Mecánico,Accesorios,Interior,Distribuidor,5,85000,0.0,450500.0
+V00996,2025-07-28,C0069,P010,Parlante Portátil,Audio,GBA Sur,Retail,1,78000,0.0,83616.0
+V00997,2025-11-17,C0175,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Distribuidor,2,42000,0.1,84672.0
+V00998,2025-08-06,C0028,P008,Webcam HD,Accesorios,GBA Oeste,Mayorista,1,67000,0.0,72628.0
+V00999,2025-03-02,C0074,P001,Notebook Pro 14,Tecnología,CABA,Mayorista,1,950000,0.15,826880.0
+V01000,2025-10-17,C0012,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Mayorista,3,220000,0.0,731280.0
+V01001,2025-05-06,C0077,P005,Silla Ergonómica,Mobiliario,CABA,E-commerce,3,310000,0.0,974640.0
+V01002,2025-06-25,C0180,P010,Parlante Portátil,Audio,GBA Sur,E-commerce,1,78000,0.1,74412.0
+V01003,2025-02-04,C0011,P005,Silla Ergonómica,Mobiliario,Interior,Distribuidor,1,310000,0.0,313720.0
+V01004,2025-04-06,C0038,P009,Tablet 10,Tecnología,GBA Oeste,E-commerce,1,390000,0.15,343434.0
+V01005,2025-06-20,C0098,P005,Silla Ergonómica,Mobiliario,CABA,E-commerce,5,310000,0.0,1643000.0
+V01006,2025-08-17,C0116,P002,Monitor 27,Tecnología,GBA Oeste,Retail,4,280000,0.0,1214080.0
+V01007,2025-12-15,C0017,P008,Webcam HD,Accesorios,Interior,Distribuidor,5,67000,0.1,341298.0
+V01008,2025-11-03,C0087,P007,Auriculares BT,Audio,GBA Sur,Retail,1,115000,0.0,128800.0
+V01009,2025-08-23,C0095,P003,Teclado Mecánico,Accesorios,Interior,Distribuidor,4,85000,0.05,350132.0
+V01010,2025-07-05,C0016,P006,Escritorio Compacto,Mobiliario,CABA,Mayorista,3,220000,0.0,707520.0
+V01011,2025-11-14,C0151,P008,Webcam HD,Accesorios,GBA Norte,Retail,3,67000,0.1,202608.0
+V01012,2025-06-30,C0101,P002,Monitor 27,Tecnología,Interior,E-commerce,1,280000,0.1,267120.0
+V01013,2025-11-08,C0084,P008,Webcam HD,Accesorios,GBA Norte,Mayorista,4,67000,0.0,300160.0
+V01014,2025-10-27,C0137,P003,Teclado Mecánico,Accesorios,GBA Norte,E-commerce,4,85000,0.1,339048.0
+V01015,2025-09-18,C0109,P001,Notebook Pro 14,Tecnología,GBA Oeste,E-commerce,4,950000,0.1,3748320.0
+V01016,2025-04-19,C0155,P010,Parlante Portátil,Audio,CABA,Mayorista,2,78000,0.0,161616.0
+V01017,2025-04-15,,P005,Silla Ergonómica,Mobiliario,,Retail,1,310000,0.0,321160.0
+V01018,2025-12-30,C0161,P010,Parlante Portátil,Audio,CABA,Distribuidor,2,78000,0.15,150103.2
+V01019,2025-07-20,C0155,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,1,78000,0.0,83616.0
+V01020,2025-12-21,C0009,P006,Escritorio Compacto,Mobiliario,CABA,Mayorista,1,220000,0.15,211684.0
+V01021,2025-02-04,C0053,P006,Escritorio Compacto,Mobiliario,GBA Sur,E-commerce,2,220000,0.0,445280.0
+V01022,2025-01-11,C0104,P002,Monitor 27,Tecnología,Interior,E-commerce,1,280000,0.0,280000.0
+V01023,2025-10-03,C0129,P007,Auriculares BT,Audio,GBA Norte,Retail,4,115000,0.05,484196.0
+V01024,2025-05-05,C0132,P002,Monitor 27,Tecnología,GBA Norte,Retail,3,280000,0.1,792288.0
+V01025,2025-12-22,C0062,P003,Teclado Mecánico,Accesorios,GBA Oeste,Mayorista,2,85000,0.15,163574.0
+V01026,2025-12-29,C0128,P010,Parlante Portátil,Audio,CABA,Retail,4,78000,0.0,353184.0
+V01027,2025-11-26,C0085,P001,Notebook Pro 14,Tecnología,GBA Oeste,Distribuidor,3,950000,0.0,3192000.0
+V01028,2025-07-23,C0105,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Distribuidor,4,220000,0.1,849024.0
+V01029,2025-02-16,C0161,P001,Notebook Pro 14,Tecnología,CABA,Retail,3,950000,0.1,2595780.0
+V01030,2025-02-13,C0049,P005,Silla Ergonómica,Mobiliario,Interior,Retail,4,310000,0.0,1254880.0
+V01031,2025-11-02,C0167,P008,Webcam HD,Accesorios,Interior,Retail,2,67000,0.0,150080.0
+V01032,2025-10-22,C0153,P002,Monitor 27,Tecnología,GBA Norte,E-commerce,5,280000,0.0,1551200.0
+V01033,2025-08-13,C0141,P007,Auriculares BT,Audio,GBA Sur,Mayorista,2,115000,0.15,211922.0
+V01034,2025-03-23,C0049,P007,Auriculares BT,Audio,GBA Oeste,Mayorista,5,115000,0.0,588800.0
+V01035,2025-09-02,C0110,P009,Tablet 10,Tecnología,GBA Oeste,Retail,1,390000,0.05,406068.0
+V01036,2025-01-13,C0118,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Retail,5,42000,0.0,210000.0
+V01037,2025-12-28,C0013,P001,Notebook Pro 14,Tecnología,GBA Oeste,E-commerce,2,950000,0.0,2150800.0
+V01038,2025-08-19,C0040,P003,Teclado Mecánico,Accesorios,GBA Norte,Retail,3,85000,0.0,276420.0
+V01039,2025-04-05,C0124,P005,Silla Ergonómica,Mobiliario,GBA Sur,Distribuidor,2,310000,0.15,545972.0
+V01040,2025-05-18,C0091,P003,Teclado Mecánico,Accesorios,GBA Oeste,E-commerce,2,85000,0.05,169252.0
+V01041,2025-08-25,C0169,P006,Escritorio Compacto,Mobiliario,Interior,Distribuidor,4,220000,0.05,906224.0
+V01042,2025-09-13,C0073,P004,Mouse Inalámbrico,Accesorios,CABA,Mayorista,4,42000,0.05,174921.6
+V01043,2025-04-06,C0159,P006,Escritorio Compacto,Mobiliario,GBA Oeste,E-commerce,4,220000,0.1,820512.0
+V01044,2025-10-05,C0050,P010,Parlante Portátil,Audio,Interior,E-commerce,2,78000,0.0,172848.0
+V01045,2025-01-03,C0092,P005,Silla Ergonómica,Mobiliario,GBA Norte,E-commerce,5,310000,0.05,1472500.0
+V01046,2025-06-22,C0114,P006,Escritorio Compacto,Mobiliario,CABA,E-commerce,1,220000,0.0,233200.0
+V01047,2025-08-14,C0036,P001,Notebook Pro 14,Tecnología,GBA Sur,Retail,2,950000,0.05,1956620.0
+V01048,2025-02-16,C0170,P010,Parlante Portátil,Audio,GBA Oeste,Mayorista,3,78000,0.0,236808.0
+V01049,2025-12-31,C0057,P001,Notebook Pro 14,Tecnología,CABA,Distribuidor,2,950000,0.05,2043260.0
+V01050,2025-03-02,C0177,P003,Teclado Mecánico,Accesorios,CABA,Retail,4,85000,0.1,313344.0
+V01051,2025-03-07,C0113,P002,Monitor 27,Tecnología,GBA Oeste,Retail,1,280000,0.0,286720.0
+V01052,2025-08-14,C0052,P008,Webcam HD,Accesorios,GBA Oeste,Distribuidor,4,67000,0.0,290512.0
+V01053,2025-11-04,C0071,P002,Monitor 27,Tecnología,Interior,Distribuidor,4,280000,0.0,1254400.0
+V01054,2025-05-02,C0060,P008,Webcam HD,Accesorios,GBA Oeste,E-commerce,3,67000,0.15,179050.8
+V01055,2025-06-09,C0125,P003,Teclado Mecánico,Accesorios,Interior,Distribuidor,4,85000,0.0,360400.0
+V01056,2025-03-03,C0011,P001,Notebook Pro 14,Tecnología,GBA Norte,Mayorista,3,950000,0.0,2918400.0
+V01057,2025-05-15,C0017,P003,Teclado Mecánico,Accesorios,GBA Oeste,Retail,4,85000,0.1,320688.0
+V01058,2025-10-17,C0020,P009,Tablet 10,Tecnología,CABA,Mayorista,2,390000,0.05,821028.0
+V01059,2025-08-24,C0130,P001,Notebook Pro 14,Tecnología,GBA Oeste,Retail,3,950000,0.05,2934930.0
+V01060,2025-07-26,C0107,P006,Escritorio Compacto,Mobiliario,CABA,Retail,2,220000,0.0,471680.0
+V01061,2025-12-31,C0138,P003,Teclado Mecánico,Accesorios,GBA Oeste,E-commerce,2,85000,0.0,192440.0
+V01062,2025-08-31,C0110,P008,Webcam HD,Accesorios,CABA,E-commerce,2,67000,0.0,145256.0
+V01063,2025-03-24,C0087,P010,Parlante Portátil,Audio,GBA Sur,E-commerce,2,78000,0.0,159744.0
+V01064,2025-08-01,C0060,P003,Teclado Mecánico,Accesorios,CABA,Retail,4,85000,0.0,368560.0
+V01065,2025-11-13,C0119,P006,Escritorio Compacto,Mobiliario,CABA,Mayorista,2,220000,0.0,492800.0
+V01066,2025-07-09,C0135,P009,Tablet 10,Tecnología,Interior,Mayorista,1,390000,0.1,376272.0
+V01067,2025-12-31,C0056,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,4,220000,0.0,996160.0
+V01068,2025-08-24,C0096,P009,Tablet 10,Tecnología,Interior,Distribuidor,3,390000,0.0,1268280.0
+V01069,2025-08-24,C0116,P001,Notebook Pro 14,Tecnología,Interior,Mayorista,3,950000,0.0,3089400.0
+V01070,2025-09-28,C0154,P009,Tablet 10,Tecnología,CABA,E-commerce,2,390000,0.15,726648.0
+V01071,2025-01-09,C0124,P001,Notebook Pro 14,Tecnología,CABA,Mayorista,4,950000,0.0,3800000.0
+V01072,2025-08-19,C0031,P007,Auriculares BT,Audio,GBA Norte,Mayorista,1,115000,0.15,105961.0
+V01073,2025-08-19,C0142,P010,Parlante Portátil,Audio,CABA,Distribuidor,2,78000,0.0,169104.0
+V01074,2025-02-17,C0169,P007,Auriculares BT,Audio,GBA Norte,Retail,2,115000,0.0,232760.0
+V01075,2025-03-06,C0055,P009,Tablet 10,Tecnología,Interior,Mayorista,2,390000,0.15,678912.0
+V01076,2025-12-13,C0176,P004,Mouse Inalámbrico,Accesorios,Interior,E-commerce,4,42000,0.05,180667.2
+V01077,2025-07-27,C0115,P006,Escritorio Compacto,Mobiliario,Interior,Distribuidor,1,220000,0.0,235840.0
+V01078,2025-11-19,C0056,P002,Monitor 27,Tecnología,GBA Sur,Distribuidor,3,280000,0.05,893760.0
+V01079,2025-07-03,C0124,P008,Webcam HD,Accesorios,Interior,Distribuidor,4,67000,0.0,287296.0
+V01080,2025-03-09,C0126,P009,Tablet 10,Tecnología,GBA Norte,E-commerce,2,390000,0.1,718848.0
+V01081,2025-05-01,C0069,P003,Teclado Mecánico,Accesorios,GBA Norte,Retail,5,85000,0.0,445400.0
+V01082,2025-08-31,C0030,P008,Webcam HD,Accesorios,CABA,E-commerce,1,67000,0.1,65365.2
+V01083,2025-03-19,C0130,P003,Teclado Mecánico,Accesorios,GBA Norte,Distribuidor,1,85000,0.0,87040.0
+V01084,2025-10-31,C0162,P010,Parlante Portátil,Audio,Interior,E-commerce,1,78000,0.1,77781.6
+V01085,2025-02-13,C0007,P010,Parlante Portátil,Audio,GBA Sur,E-commerce,1,78000,0.0,78936.0
+V01086,2025-03-28,C0094,P007,Auriculares BT,Audio,GBA Norte,E-commerce,5,115000,0.0,588800.0
+V01087,2025-12-10,C0119,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,E-commerce,1,42000,0.1,42789.6
+V01088,2025-02-08,C0104,P009,Tablet 10,Tecnología,GBA Sur,Distribuidor,2,390000,0.0,789360.0
+V01089,2025-09-23,C0146,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Distribuidor,1,42000,0.1,41428.8
+V01090,2025-12-15,C0053,P010,Parlante Portátil,Audio,Interior,Mayorista,1,78000,0.0,88296.0
+V01091,2025-02-07,C0156,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,1,42000,0.0,42504.0
+V01092,2025-11-30,C0080,P002,Monitor 27,Tecnología,GBA Oeste,E-commerce,1,280000,0.05,297920.0
+V01093,2025-03-16,C0133,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,3,78000,0.0,239616.0
+V01094,2025-04-25,C0133,P003,Teclado Mecánico,Accesorios,CABA,Retail,2,85000,0.1,158508.0
+V01095,2025-01-13,C0128,P007,Auriculares BT,Audio,GBA Sur,Distribuidor,5,115000,0.1,517500.0
+V01096,2025-04-23,C0101,P002,Monitor 27,Tecnología,GBA Oeste,Mayorista,4,280000,0.15,986272.0
+V01097,2025-02-17,C0006,P001,Notebook Pro 14,Tecnología,GBA Oeste,E-commerce,2,950000,0.0,1922800.0
+V01098,2025-06-10,C0016,P003,Teclado Mecánico,Accesorios,Interior,E-commerce,5,85000,0.05,427975.0
+V01099,2025-10-24,C0154,P009,Tablet 10,Tecnología,Interior,Mayorista,4,390000,0.0,1728480.0
+V01100,2025-01-09,C0079,P002,Monitor 27,Tecnología,Interior,Retail,5,280000,0.1,1260000.0
+V01101,2025-02-10,C0118,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,5,390000,0.0,1973400.0
+V01102,2025-09-06,C0005,P002,Monitor 27,Tecnología,Interior,Distribuidor,1,280000,0.0,306880.0
+V01103,2025-06-26,C0097,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,4,220000,0.0,932800.0
+V01104,2025-01-04,C0165,P006,Escritorio Compacto,Mobiliario,GBA Sur,E-commerce,2,220000,0.05,418000.0
+V01105,2025-09-20,C0109,P009,Tablet 10,Tecnología,GBA Oeste,Retail,4,390000,0.0,1709760.0
+V01106,2025-04-23,C0033,P007,Auriculares BT,Audio,CABA,Retail,3,115000,0.15,303807.0
+V01107,2025-08-29,C0153,P008,Webcam HD,Accesorios,CABA,Distribuidor,5,67000,0.1,326826.0
+V01108,2025-01-17,C0083,P003,Teclado Mecánico,Accesorios,CABA,E-commerce,5,85000,0.0,425000.0
+V01109,2025-08-29,C0117,P010,Parlante Portátil,Audio,GBA Norte,Distribuidor,4,78000,0.0,338208.0
+V01110,2025-06-29,C0034,P008,Webcam HD,Accesorios,CABA,Distribuidor,3,67000,0.15,181101.0
+V01111,2025-05-15,C0126,P006,Escritorio Compacto,Mobiliario,GBA Oeste,E-commerce,4,220000,0.15,783904.0
+V01112,2025-12-02,C0093,P006,Escritorio Compacto,Mobiliario,Interior,E-commerce,2,220000,0.1,448272.0
+V01113,2025-05-09,C0106,P004,Mouse Inalámbrico,Accesorios,CABA,Mayorista,3,42000,0.1,118843.2
+V01114,2025-11-02,C0070,P004,Mouse Inalámbrico,Accesorios,Interior,Retail,1,42000,0.15,39984.0
+V01115,2025-07-07,C0012,P001,Notebook Pro 14,Tecnología,Interior,E-commerce,3,950000,0.05,2902440.0
+V01116,2025-09-06,C0006,P003,Teclado Mecánico,Accesorios,CABA,Distribuidor,3,85000,0.0,279480.0
+V01117,2025-11-19,C0018,P007,Auriculares BT,Audio,GBA Oeste,Mayorista,5,115000,0.05,611800.0
+V01118,2025-08-27,C0172,P005,Silla Ergonómica,Mobiliario,GBA Oeste,Mayorista,4,310000,0.05,1276952.0
+V01119,2025-08-11,C0052,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,4,78000,0.1,304387.2
+V01120,2025-01-03,C0026,P003,Teclado Mecánico,Accesorios,CABA,Mayorista,2,85000,0.15,144500.0
+V01121,2025-04-11,C0046,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Distribuidor,3,42000,0.0,130536.0
+V01122,2025-03-01,C0095,P009,Tablet 10,Tecnología,GBA Sur,E-commerce,2,390000,0.0,798720.0
+V01123,31/02/2025,C0136,P007,Auriculares BT,Audio,Interior,Retail,1,115000,0.05,119738.0
+V01124,2025-03-30,C0067,P008,Webcam HD,Accesorios,Interior,Mayorista,4,67000,0.1,246988.8
+V01125,2025-03-12,C0021,P004,Mouse Inalámbrico,Accesorios,CABA,Distribuidor,2,42000,0.15,73113.6
+V01126,2025-03-03,C0156,P003,Teclado Mecánico,Accesorios,Interior,Retail,3,85000,0.0,261120.0
+V01127,2025-07-06,C0158,P010,Parlante Portátil,Audio,Interior,E-commerce,1,78000,0.05,79435.2
+V01128,2025-12-24,C0022,P006,Escritorio Compacto,Mobiliario,Interior,Distribuidor,2,220000,0.0,498080.0
+V01129,2025-06-07,C0154,P001,Notebook Pro 14,Tecnología,Interior,E-commerce,5,950000,0.0,5035000.0
+V01130,2025-11-04,C0136,P003,Teclado Mecánico,Accesorios,Interior,E-commerce,2,85000,0.0,190400.0
+V01131,2025-10-29,C0055,P010,Parlante Portátil,Audio,CABA,Mayorista,1,78000,0.0,86424.0
+V01132,2025-09-27,C0018,P010,Parlante Portátil,Audio,Interior,Retail,3,78000,0.05,243640.8
+V01133,2025-07-27,C0117,P005,Silla Ergonómica,Mobiliario,CABA,E-commerce,5,310000,0.05,1578520.0
+V01134,2025-10-03,C0040,P005,Silla Ergonómica,Mobiliario,GBA Norte,Distribuidor,3,310000,0.0,1030440.0
+V01135,2025-11-29,C0090,P003,Teclado Mecánico,Accesorios,GBA Norte,E-commerce,3,85000,0.05,271320.0
+V01136,2025-06-19,C0151,P003,Teclado Mecánico,Accesorios,Interior,Mayorista,4,85000,0.05,342380.0
+V01137,2025-03-22,C0158,P004,Mouse Inalámbrico,Accesorios,GBA Oeste,Distribuidor,3,42000,0.0,129024.0
+V01138,2025-06-06,C0141,P002,Monitor 27,Tecnología,CABA,Distribuidor,3,280000,0.05,845880.0
+V01139,2025-03-10,C0025,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Mayorista,4,42000,0.05,163430.4
+V01140,2025-03-15,C0149,P002,Monitor 27,Tecnología,CABA,Mayorista,4,280000,0.0,1146880.0
+V01141,2025-12-04,C0172,P003,Teclado Mecánico,Accesorios,Interior,Mayorista,4,85000,0.05,365636.0
+V01142,2025-05-25,C0037,P008,Webcam HD,Accesorios,GBA Oeste,Distribuidor,4,67000,0.0,280864.0
+V01143,2025-10-17,C0104,P002,Monitor 27,Tecnología,GBA Norte,E-commerce,2,280000,0.0,620480.0
+V01144,2025-07-14,C0065,P010,Parlante Portátil,Audio,GBA Sur,Distribuidor,3,78000,0.0,250848.0
+V01145,2025-04-12,,P009,Tablet 10,Tecnología,GBA Oeste,Distribuidor,1,390000,0.05,383838.0
+V01146,2025-03-31,C0146,P006,Escritorio Compacto,Mobiliario,GBA Sur,Retail,4,220000,0.05,856064.0
+V01147,2025-05-06,C0100,P007,Auriculares BT,Audio,GBA Oeste,Distribuidor,3,115000,0.0,361560.0
+V01148,2025-11-29,C0003,P006,Escritorio Compacto,Mobiliario,CABA,Distribuidor,5,220000,0.0,1232000.0
+V01149,2025-12-19,C0079,P006,Escritorio Compacto,Mobiliario,GBA Oeste,E-commerce,3,220000,0.0,747120.0
+V01150,2025-11-03,C0096,P001,Notebook Pro 14,Tecnología,GBA Sur,Retail,2,950000,0.0,2128000.0
+V01151,2025-01-19,C0155,P001,Notebook Pro 14,Tecnología,GBA Sur,E-commerce,4,950000,0.0,3800000.0
+V01152,2025-04-11,C0086,P001,Notebook Pro 14,Tecnología,GBA Sur,Distribuidor,4,950000,0.0,3936800.0
+V01153,2025-10-03,C0052,P009,Tablet 10,Tecnología,GBA Norte,Mayorista,5,390000,0.05,2052570.0
+V01154,2025-10-02,C0137,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,3,42000,0.0,139608.0
+V01155,2025-03-15,C0131,P001,Notebook Pro 14,Tecnología,CABA,E-commerce,1,950000,0.05,924160.0
+V01156,2025-11-11,C0097,P010,Parlante Portátil,Audio,GBA Norte,Distribuidor,1,78000,0.05,82992.0
+V01157,2025-09-28,C0103,P007,Auriculares BT,Audio,GBA Norte,Distribuidor,1,115000,0.0,126040.0
+V01158,2025-01-25,C0128,P005,Silla Ergonómica,Mobiliario,Interior,E-commerce,5,310000,0.0,1550000.0
+V01159,2025-05-07,C0119,P003,Teclado Mecánico,Accesorios,GBA Norte,E-commerce,1,85000,0.1,80172.0
+V01160,2025-07-11,C0095,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,4,42000,0.0,180096.0
+V01161,2025-09-11,C0145,P003,Teclado Mecánico,Accesorios,GBA Oeste,E-commerce,2,85000,0.05,177004.0
+V01162,2025-12-14,C0086,P005,Silla Ergonómica,Mobiliario,GBA Sur,E-commerce,5,310000,0.0,1754600.0
+V01163,2025-05-26,C0128,P010,Parlante Portátil,Audio,CABA,Mayorista,5,78000,0.15,347412.0
+V01164,2025-06-17,C0137,P004,Mouse Inalámbrico,Accesorios,GBA Norte,Mayorista,2,42000,0.0,89040.0
+V01165,2025-03-12,C0144,P005,Silla Ergonómica,Mobiliario,Interior,Distribuidor,2,310000,0.15,539648.0
+V01166,2025-09-19,C0033,P002,Monitor 27,Tecnología,GBA Norte,Mayorista,5,280000,0.0,1534400.0
+V01167,2025-06-04,C0113,P001,Notebook Pro 14,Tecnología,GBA Norte,Retail,2,950000,0.0,2014000.0
+V01168,2025-10-17,C0122,P002,Monitor 27,Tecnología,GBA Norte,Retail,1,280000,0.0,310240.0
+V01169,2025-03-10,C0128,P002,Monitor 27,Tecnología,GBA Oeste,Mayorista,4,280000,0.0,1146880.0
+V01170,2025-02-24,C0013,P003,Teclado Mecánico,Accesorios,GBA Oeste,Distribuidor,3,85000,0.0,258060.0
+V01171,2025-09-09,C0045,P005,Silla Ergonómica,Mobiliario,GBA Norte,E-commerce,2,310000,0.1,611568.0
+V01172,2025-10-28,C0032,P002,Monitor 27,Tecnología,CABA,Mayorista,4,280000,0.0,1240960.0
+V01173,2025-04-17,C0049,P006,Escritorio Compacto,Mobiliario,GBA Norte,E-commerce,1,220000,0.05,216524.0
+V01174,2025-06-28,C0161,P002,Monitor 27,Tecnología,GBA Norte,Distribuidor,2,280000,0.0,593600.0
+V01175,2025-07-03,C0043,P010,Parlante Portátil,Audio,CABA,E-commerce,3,78000,0.05,238305.6
+V01176,2025-10-20,C0108,P003,Teclado Mecánico,Accesorios,GBA Sur,Distribuidor,1,85000,0.15,80053.0
+V01177,2025-04-04,,P006,Escritorio Compacto,Mobiliario,GBA Oeste,Mayorista,2,220000,0.05,433048.0
+V01178,2025-05-22,C0174,P003,Teclado Mecánico,Accesorios,CABA,E-commerce,5,85000,0.05,423130.0
+V01179,2025-02-26,C0012,P002,Monitor 27,Tecnología,Interior,Distribuidor,2,280000,0.1,510048.0
+V01180,2025-11-04,C0158,P008,Webcam HD,Accesorios,Interior,E-commerce,4,67000,0.0,300160.0
+V01181,2025-03-28,C0084,P009,Tablet 10,Tecnología,GBA Oeste,Distribuidor,2,390000,0.05,758784.0
+V01182,2025-05-18,C0130,P006,Escritorio Compacto,Mobiliario,GBA Oeste,E-commerce,4,220000,0.1,830016.0
+V01183,2025-01-01,C0053,P002,Monitor 27,Tecnología,GBA Norte,Mayorista,3,280000,0.05,798000.0
+V01184,2025-03-24,C0100,P009,Tablet 10,Tecnología,GBA Sur,Distribuidor,3,390000,0.0,1198080.0
+V01185,2025-07-19,C0172,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Mayorista,3,42000,0.05,128318.4
+V01186,2025-02-15,C0127,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,1,42000,0.1,38253.6
+V01187,2025-06-24,C0090,P009,Tablet 10,Tecnología,GBA Oeste,Retail,3,390000,0.0,1240200.0
+V01188,2025-06-03,C0070,P009,Tablet 10,Tecnología,GBA Oeste,Mayorista,1,390000,0.0,413400.0
+V01189,2025-06-05,C0047,P010,Parlante Portátil,Audio,CABA,Mayorista,5,78000,0.0,413400.0
+V01190,2025-06-03,C0032,P004,Mouse Inalámbrico,Accesorios,GBA Sur,Distribuidor,2,42000,0.0,89040.0
+V01191,2025-04-03,C0101,P001,Notebook Pro 14,Tecnología,GBA Sur,Distribuidor,1,950000,0.05,934990.0
+V01192,2025-07-15,C0171,P003,Teclado Mecánico,Accesorios,CABA,Retail,5,85000,0.1,410040.0
+V01193,2025-09-21,C0051,P009,Tablet 10,Tecnología,CABA,Retail,1,390000,0.15,363324.0
+V01194,2025-07-28,C0076,P003,Teclado Mecánico,Accesorios,GBA Sur,Retail,2,85000,0.0,182240.0
+V01195,2025-05-15,C0177,P006,Escritorio Compacto,Mobiliario,GBA Sur,Mayorista,1,220000,0.0,230560.0
+V01196,2025-09-08,C0107,P008,Webcam HD,Accesorios,GBA Oeste,Distribuidor,2,67000,0.0,146864.0
+V01197,2025-03-28,C0058,P004,Mouse Inalámbrico,Accesorios,Interior,E-commerce,5,42000,0.0,215040.0
+V01198,2025-05-23,C0159,P001,Notebook Pro 14,Tecnología,GBA Norte,Mayorista,2,950000,0.0,1991200.0
+V01199,2025-12-14,C0077,P001,Notebook Pro 14,Tecnología,CABA,Distribuidor,2,950000,0.1,1935720.0
+V01200,2025-02-24,C0069,P001,Notebook Pro 14,Tecnología,Interior,E-commerce,4,950000,0.0,3845600.0
+V00827,2025-11-05,C0143,P001,Notebook Pro 14,Tecnología,GBA Sur,Distribuidor,5,950000,0.0,5320000.0
+V00689,2025-08-03,C0095,P009,Tablet 10,Tecnología,CABA,Mayorista,3,390000,0.1,1141452.0
+V00274,2025-05-25,C0016,P004,Mouse Inalámbrico,Accesorios,GBA Sur,E-commerce,5,42000,0.0,220080.0
+V00347,2025-07-28,C0161,P004,Mouse Inalámbrico,Accesorios,CABA,Mayorista,4,42000,0.0,180096.0
+V00530,31/02/2025,C0151,P008,Webcam HD,Accesorios,GBA Sur,Mayorista,5,67000,0.0,347060.0
+V00543,2025-03-03,C0133,P010,Parlante Portátil,Audio,GBA Oeste,E-commerce,1,78000,0.1,71884.8
+V00052,2025-06-27,C0016,P001,Notebook Pro 14,Tecnología,Interior,E-commerce,4,950000,0.0,4028000.0
+V00346,2025-11-08,C0179,P010,Parlante Portátil,Audio,GBA Sur,Distribuidor,2,78000,0.1,157248.0

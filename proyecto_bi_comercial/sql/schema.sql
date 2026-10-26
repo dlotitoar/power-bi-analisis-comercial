@@ -1,0 +1,3 @@
+CREATE TABLE dim_product (product_id VARCHAR(10) PRIMARY KEY, product_name VARCHAR(100) NOT NULL, category VARCHAR(50) NOT NULL, list_price_ars NUMERIC(14,2));
+CREATE TABLE dim_customer (customer_id VARCHAR(20) PRIMARY KEY, customer_segment VARCHAR(40), customer_province VARCHAR(60));
+CREATE TABLE fact_sales (sale_id VARCHAR(20) PRIMARY KEY, sale_date DATE NOT NULL, customer_id VARCHAR(20), product_id VARCHAR(10) NOT NULL, region VARCHAR(40), channel VARCHAR(40), quantity INTEGER NOT NULL, unit_price_ars NUMERIC(14,2) NOT NULL, discount_rate NUMERIC(5,4), sales_amount_ars NUMERIC(16,2) NOT NULL, FOREIGN KEY(product_id) REFERENCES dim_product(product_id), FOREIGN KEY(customer_id) REFERENCES dim_customer(customer_id));
