@@ -1,6 +1,6 @@
 # Proyecto BI Comercial — ETL, SQL y Power BI
 
-**Portfolio de Business Intelligence con datos 100 % simulados. Este proyecto no utiliza ni representa datos, clientes o procesos internos de Increxa ni de sus clientes.**
+**Portfolio de Business Intelligence con datos 100 % simulados. Este proyecto no utiliza ni representa datos, clientes o procesos internos de alguna empresa.**
 
 ## 1. Objetivo del proyecto
 
